@@ -12,22 +12,35 @@ Here is your one stop for all your learning material.
 
 ## Setup Git/GitHub
 
-* Install [git](https://git-scm.com/)
-    - If you're on Windows or OS X and don't know what git is, [GitHub Desktop](https://desktop.github.com/) is probably easiest.
-* [Sign up](https://github.com/join) for a GitHub account if you don't already have one.
-* [Set up ssh keys](https://help.github.com/articles/connecting-to-github-with-ssh/)
+1. Install [git](https://git-scm.com/)
+If you're on Windows or OS X, [GitHub Desktop](https://desktop.github.com/) is 
+probably easiest.
+1. [Sign up](https://github.com/join) for a GitHub account if you don't already have one.
+
+If you plan on using the terminal and not GitHub desktop it might be a good
+idea to [set up ssh keys](https://help.github.com/articles/connecting-to-github-with-ssh/)
 for GitHub.
 
 ## Login the LDSSA Portal
 
-* Open the [Portal](https://portal.lisbondatascience.org)
-* Login with GitHub
-* Go to your profile there should be a key there, remember this for later
+1. Open the [Portal](https://portal.lisbondatascience.org)
+1. Login with your GitHub account
+1. Go to your profile ("My Profile") there should be a key there, remember this
+for later
 
 ## Get the Learning Material
 
-* Open a Terminal or Git Bash, the next steps are on this terminal
-* Clone the students repository [batch3-students](https://github.com/LDSSA/batch3-students)
+### Using GitHub Desktop
+
+1. Click "Clone a repository from the internet..."
+1. Filter by "batch3-students"
+1. Select and press clone
+
+### Using the terminal
+
+1. Open a Terminal or Git Bash, the next steps are on this terminal
+1. Clone the students repository 
+[batch3-students](https://github.com/LDSSA/batch3-students)
 ```bash
 git clone https://github.com/LDSSA/batch3-students.git
 ```
@@ -40,32 +53,45 @@ It is also how the portal will fetch your work for grading.
 
 * Create a new **private** GitHub repository called *batch3-workspace*, see 
 [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository)
-* Open a Terminal or Git Bash, the next steps are on this terminal
-* Clone the *LDSSA/batch3-workspace* repository
+1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and 
+copy the deploy key
+1. Go to your `batch3-workspace` settings on GitHub and under *Deploy Keys*
+add the key
+
+
+### Using GitHub Desktop
+
+1. Select "File > Clone repository" on the menubar
+1. Filter by "LDSSA/batch3-workspace"
+1. Select and clone
+1. Select "Repository > Repository settings..." on the menubar
+1. Change `LDSSA` to you github username
+1. Select "Repository > Push" on the menubar
+
+### Using the terminal
+
+1. Open a Terminal or Git Bash, the next steps are on this terminal
+1. Clone the *LDSSA/batch3-workspace* repository
 ```bash
-git clone --bare https://github.com/LDSSA/batch3-workspace.git
+git clone https://github.com/LDSSA/batch3-workspace.git
 ```
-* Push to you workspace, change username to your GitHub username
+1. Change the remote to your repository
 ```bash
-cd batch3-workspace.git
-git push --mirror git@github.com:<username>/batch3-workspace.git
+cd batch3-workspace
+git remote set-url origin git@github.com:<username>/batch3-workspace.git
 ```
-* Remove temporary clone
+1. Push
 ```bash
-cd ..
-rm -rf batch3-workspace.git
+git push
 ```
-* Go the [LDSSA Portal](https)
-* Go to your `batch3-workspace` settings on GitHub and under *Deploy Keys*
-add the key you saw in your profile in the 
-[LDSSA Portal](https://portal.lisbondatascience.org).
 
 ## Next steps
 You should now have a copy of *batch3-students* where all material will
 be made available as we go along and your own working repository 
 *batch3-workspace* where you will work.
 
-Head on to the *batch3-workspace* [README](https://github.com/LDSSA/batch3-workspace)
+Head on to the *batch3-workspace* 
+[README](https://github.com/LDSSA/batch3-workspace)
 to learn how you will use it.
 
 ## Contributing
