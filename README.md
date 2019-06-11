@@ -4,7 +4,7 @@ Welcome to Lisbon Data Science Academy Batch 3 Students repository.
 Here is your one stop for all your learning material.
 
 1. [Setup Git/GitHub](#setup-gitgithub)
-1. [Login the LDSSA Porta](#login-the-ldssa-portal)
+1. [Login the LDSSA Portal](#login-the-ldssa-portal)
 1. [Get the Leaning Material](#get-the-learning-material)
 1. [Setup your Workspace Repository](#setup-your-workspace-repository)
 1. [Next Steps](#next-steps)
