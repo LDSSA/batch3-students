@@ -58,8 +58,20 @@ It is also how the portal will fetch your work for grading.
 
 * Create a new **private** GitHub repository called *batch3-workspace*, see 
 [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository). 
-IMPORTANT: The repo **MUST** be named *batch3-workspace*! If you name it anything else, you
+
+* IMPORTANT: The repo **MUST** be named *batch3-workspace*! If you name it anything else, you
 will be unable to submit any of your work!
+
+As per the following image, note that you need to explicitly select
+1. Private - This is your work and nobody else's. You will be graded based upon the merits of
+   what you are able to do here so this should not be open to the world while you are working
+   on it. Maybe after the course is completed, you can open-source it but not this time.
+1. Initialize with a README. This is mostly just so that you don't initialize an empty repo.
+1. Add a python `.gititnore`. This step is insanely important. If you don't do this, you may
+   end up checking things into the repo that make it un-gradeable by our grading system.
+   ADD THE `.gitignore` PLEASE!!!! <--- 4 * `!` isn't enough
+
+<img src="https://i.imgur.com/Hk3cFUu.png" width="400px"/>
 
 1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and 
 copy the deploy key
