@@ -52,7 +52,10 @@ The workspace repository is where you will store all your work
 It is also how the portal will fetch your work for grading.
 
 * Create a new **private** GitHub repository called *batch3-workspace*, see 
-[Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository)
+[Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository). 
+IMPORTANT: The repo **MUST** be named *batch3-workspace*! If you name it anything else, you
+will be unable to submit any of your work!
+
 1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and 
 copy the deploy key
 1. Go to your `batch3-workspace` settings on GitHub and under *Deploy Keys*
