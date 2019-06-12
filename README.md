@@ -44,6 +44,11 @@ for later
 ```bash
 git clone https://github.com/LDSSA/batch3-students.git
 ```
+Or if you have your ssh keys set up:
+
+```bash
+git clone git@github.com:LDSSA/batch3-students.git
+```
 
 ## Setup your Workspace Repository
 
