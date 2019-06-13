@@ -344,7 +344,7 @@ the learning units some make it through to you.
 If the problem is not in the exercise notebook you can just pull the new 
 version from the students repo and replace the file.
 The problem is if the correction is in the exercise notebook, you can't just
-replace the file your work is there!
+replace the file your work is there and you'll lose it!
 
 When a new version of the exercise notebook is released (and announced) two
 things will happen.
