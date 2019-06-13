@@ -277,7 +277,7 @@ for all LUs throughout the academy.
 
 Now you have worked on the sample learning unit and you have some uncommitted 
 changes.
-It's time to commit the changes, which just means adding them to your local
+It's time to commit the changes, which just means adding them to your `batch3-workspace`
 repository history, and pushing this history to you remote on _GitHub_.
 
 ###### Using _GitHub Desktop_
