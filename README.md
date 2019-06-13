@@ -9,7 +9,7 @@ workflow you'll use during the academy.
     1. [Setup _Git_/_GitHub_](#setup-_git__github_)
     1. [Install _Anaconda_](#install-_anaconda_)
     1. [Setup your Workspace Repository](#setup-your-workspace-repository)
-    1. [Get the Leaning Material](#get-the-learning-material)
+    1. [Get the Learning Material](#get-the-learning-material)
     1. [Running and Submitting a Learning Unit](#running-and-submitting-a-learning-unit)
 1. [Learning Unit Workflow](#learning-unit-workflow)
 1. [Updates to Learning Units](#updates-to-learning-units)
