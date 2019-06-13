@@ -24,7 +24,7 @@ workflow you'll use during the academy.
 Before the bootcamp you will have to complete these instructions, this is 
 essential.
 
-Once you complete the setup mark yourself as such on [this spreadsheet]().
+Once you complete the setup mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing).
 
 By completing this you will setup and learn about all the tools you'll be
 using during the academy.
@@ -85,7 +85,7 @@ If you name it anything else, you will be unable to submit any of your work!
     time.
     1. Initialize with a README. 
     This is mostly just so that you don't initialize an empty repo.
-    1. Add a Python `.gititnore`. 
+    1. Add a Python `.gitignore`.
     This step is insanely important. If you don't do this, you may
     end up checking things into the repo that make it un-gradeable by our 
     grading system.
@@ -204,12 +204,12 @@ same version of the packages the instructor used to create the notebooks.
 1. Select "Environments"
 1. Select "Import"
 1. Set `slu00` for the name and select the `environment.yml` file in the 
-learning unit directory.
+learning unit directory (the one in your `batch3-workspace`).
 
 ###### Using the Terminal
 
 ```bash
-cd sample/SLU00\ -\ Pandas\ 101
+cd batch3-workspace/sample/SLU00\ -\ Pandas\ 101
 conda env create -n slu00 --file environment.yml
 ```
 
@@ -237,12 +237,9 @@ So let's start the Jupyter Notebook app.
 
 ###### Using the Terminal
 
-1. Activate the environment
+1. Activate the environment and run jupyter notebook
 ```bash
 conda activate slu00
-```
-1. Run jupyter notebook
-```bash
 jupyter notebook
 ```
 
@@ -314,7 +311,7 @@ into it
 1. Go to the [_Portal_](https://portal.lisbondatascience.org)
 1. Select the sample learning unit and press "Grade"
 1. After grading is complete you should have 20/20
-1. Once you have your grade don't forget to do the [spreadsheet](TODO) thing.
+1. Once you have your grade don't forget to do the [spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing) thing.
 
 ## Learning Unit Workflow
 
@@ -332,8 +329,7 @@ Here's a quick recap:
 1. Copy the unit to your `batch3-workspace` repo
 1. Work
 1. Once all tests pass or once you're happy, commit the changes and push
-1. Go to the _Portal_ select the learning unit you're working on and click 
-"Grade"
+1. Go to the [_Portal_](https://portal.lisbondatascience.org), select the learning unit you're working on and click  "Grade"
 1. Refresh the page until you get the results back
 1. Profit
 
@@ -398,7 +394,7 @@ If so we will first ask to do a bit of troubleshooting.
 effect)
 1. In the learning unit page in the [_Portal_](https://portal.lisbondatascience.org/)
 you are able to download the exercise notebook with the results of the grader,
-have a look to figure out what went wrong
+have a look to figure out what went wrong.
 If none of these steps helped go ahead and open a support ticket for the portal
 [here](https://github.com/LDSSA/batch3-portal-support).
 
