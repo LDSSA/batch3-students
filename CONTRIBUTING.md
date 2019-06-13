@@ -11,17 +11,17 @@ Contributing Guidelines
 
 LDSSA's [Code of Conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct).
 
+## Reporting an issue
+
+Please start by discussing the issue via [issue](https://github.com/LDSSA/batch3-student/issues).
+
 ## Contributing to the Repository
+
 Please start by discussing the change via [issue](https://github.com/LDSSA/batch3-student/issues).
 
 ## Pull Request Process
 
-We use the [GitHub flow](https://guides.github.com/introduction/flow/).
-
-1. Create a new branch, following the naming convention `ISSUE_NUMBER/ISSUE_TITLE`
-1. Update the file(s) with the proposed changes
-1. Commit the proposed changes
-1. Open a Pull Request to discuss the changes.
+This repository is mostly not changed manually.
 
 ## Approval Process
 
