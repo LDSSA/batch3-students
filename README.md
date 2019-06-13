@@ -166,8 +166,28 @@ It's used to give instructors guidelines to produce the learning units.
 We are also using it to ensure that you are able to run and submit a learning 
 unit.
 
-So go ahead and copy the sample directory `sample/SLU00 - TODO` from the `
+So go ahead and copy the sample directory `sample/SLU00 - LU Tutorial` from the `
 batch3-students` repository to your repository (named `batch3-workspace`).
+Note that it is very important that you copy the entire path from one repo
+from the other. 
+
+For example, the entire path to SLU00 exercise notebook is
+
+```
+batch3-students/sample/SLU00 - LU Tutorial/Exercise notebook.ipynb
+```
+
+Which means that in your `batch3-workspace` repo it needs to be under
+the EXACT SAME directory like the following:
+
+```
+batch3-workspace/sample/SLU00 - LU Tutorial/Exercise notebook.ipynb
+```
+
+If there is even one single little difference in the name of the filepath
+our autograder won't be able to find it and you won't get any grade
+for it. SO BE VERY CAREFUL WHEN COPYING IT OVER.
+
 
 #### Creating a Conda Environment
 
@@ -239,12 +259,17 @@ any other kind of exception, the solution is correct.
 Once you've solved all of the notebook we recommend the following this simple 
 checklist to avoid unexpected surprises.
 1. Save the notebook (again)
-1. Run "Clear output and ..." TODO
-1. Ensure all asserts are still passing
+1. Run "Restart notebook and run all cells"
+1. At this point the notebook should have run without any failing assertions
 
-You can submit notebooks before they are 100% complete.
+If you want to submit your notebook before it is all the way done to
+check intermediate progress, feel free to.
 
-So let's have a look at the sample exercise notebook.
+So let's have a look at the sample Learning Unit. If you are able to
+go through the entire process and get a passing grade on the sample LU
+you'll have a good understanding of the same flow that you'll use
+for all LUs throughout the academy.
+
 1. On the Jupyter Notebook UI in the browser open the exercise notebook
 1. Follow the instructions provided in the notebook
 
