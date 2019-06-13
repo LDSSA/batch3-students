@@ -190,7 +190,7 @@ learning unit directory.
 
 ```bash
 cd sample/SLU00\ -\ Pandas\ 101
-conda create -n slu00 --file environment.yml
+conda env create -n slu00 --file environment.yml
 ```
 
 #### Working on the Learning Unit
