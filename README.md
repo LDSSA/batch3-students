@@ -91,7 +91,7 @@ If you name it anything else, you will be unable to submit any of your work!
     grading system.
     ADD THE `.gitignore` PLEASE!!!! <--- 4 * `!` isn't enough
 
-<img src="https://i.imgur.com/Hk3cFUu.png" width="400px"/>
+![Create Repository](assets/create_repository.png "Create Repository")
 
 #### Add a Deploy Key to your Repository
 
@@ -106,17 +106,23 @@ provide to you in our [_Portal_](https://portal.lisbondatascience.org/).
 copy the deploy key
 ![Profile](assets/profile.png "Profile")
 1. Go back to the repository you have just created
+1. Go back to the repository you have just created
 1. Go to `Settings > Deploy Keys`
 1. Click "Add deploy key"
 1. Give it a recognizable name like "grader" and paste the key from the 
 _Portal_
+![Deploy keys](assets/deploy_key.png "Deploy key")
 
 #### Cloning the Workspace
 
 ###### Using _GitHub Desktop_
 
-1. Select "File > Clone repository" on the menubar
+1. Click "Clone a repository from the internet..." or select 
+"File > Clone repository" on the menubar if this not your first time
+![Clone first time](assets/clone_first_time.png "Clone first time")
+![Clone menubar](assets/clone.png "Clone form the menubar")
 1. Filter by "batch3-workspace"
+![Clone filter](assets/clone_workspace_filter.png "Clone filter")
 1. Select and clone
 
 ###### Using the terminal
@@ -141,7 +147,8 @@ as the academy progresses.
 
 ###### Using _GitHub Desktop_
 
-1. Click "Clone a repository from the internet..."
+1. Select "File > Clone repository" on the menubar
+![Clone menubar](assets/clone.png "Clone form the menubar")
 1. Filter by "batch3-students"
 1. Select and press clone
 
@@ -169,26 +176,17 @@ unit.
 
 So go ahead and copy the sample directory `sample/SLU00 - LU Tutorial` from the `
 batch3-students` repository to your repository (named `batch3-workspace`).
-Note that it is very important that you copy the entire path from one repo
-from the other. 
+![Sample learning unit](assets/sample_learning_unit.png "Sample learning unit")
 
-For example, the entire path to SLU00 exercise notebook is
-
+The grader only requires you to have the contents in a directory starting with
+the learning unit's ID, but we highly advise to keep the same directory 
+structure as the students repository.
+All learning units are organized as: 
 ```
-batch3-students/sample/SLU00 - LU Tutorial/Exercise notebook.ipynb
+<specialization ID> - <specialization name>/<learning unit ID> - <learnin unit name>
 ```
-
-Which means that in your `batch3-workspace` repo it needs to be under
-the EXACT SAME directory like the following:
-
-```
-batch3-workspace/sample/SLU00 - LU Tutorial/Exercise notebook.ipynb
-```
-
-If there is even one single little difference in the name of the filepath
-our autograder won't be able to find it and you won't get any grade
-for it. SO BE VERY CAREFUL WHEN COPYING IT OVER.
-
+Doing so will help you keep organized and ease copying data from the students
+repository to yours.
 
 #### Creating a Conda Environment
 
@@ -204,8 +202,10 @@ same version of the packages the instructor used to create the notebooks.
 
 1. Select "Environments"
 1. Select "Import"
+![Select environment](assets/anaconda_environment.png "Select environment")
 1. Set `slu00` for the name and select the `environment.yml` file in the 
 learning unit directory (the one in your `batch3-workspace`).
+![Create environment](assets/anaconda_create.png "Create environment")
 
 ###### Using the Terminal
 
@@ -235,6 +235,7 @@ So let's start the Jupyter Notebook app.
 
 1. Click the play button next to the newly created environment and select
 "Open with Jupyter Notebook"
+![Anaconda Jupyter](assets/anaconda_jupyter.png "Anaconda Jupyter")
 
 ###### Using the Terminal
 
@@ -248,6 +249,11 @@ jupyter notebook
 
 Every learning unit contains an exercise notebook with exercises you will
 work on.
+So let's have a look at the sample Learning Unit. 
+1. On the Jupyter Notebook UI in the browser open the exercise notebook
+![Open exercise notebook](assets/jupyter_exercise_notebook.png "Open exercise notebook")
+1. Follow the instructions provided in the notebook
+
 Besides the exercises and the cells for you to write solutions you will see
 other cells with a series of `assert` statements.
 This is how we (and you) will determine if a solution is correct.
@@ -257,19 +263,16 @@ any other kind of exception, the solution is correct.
 Once you've solved all of the notebook we recommend the following this simple 
 checklist to avoid unexpected surprises.
 1. Save the notebook (again)
-1. Run "Restart notebook and run all cells"
+1. Run "Restart & Run All"
+![Restart & Run All](assets/jupyter_clear_and_run.png "Restart & Run All")
 1. At this point the notebook should have run without any failing assertions
 
 If you want to submit your notebook before it is all the way done to
 check intermediate progress, feel free to.
 
-So let's have a look at the sample Learning Unit. If you are able to
-go through the entire process and get a passing grade on the sample LU
-you'll have a good understanding of the same flow that you'll use
+If you are able to go through the entire process and get a passing grade on 
+the sample LU you'll have a good understanding of the same flow that you'll use
 for all LUs throughout the academy.
-
-1. On the Jupyter Notebook UI in the browser open the exercise notebook
-1. Follow the instructions provided in the notebook
 
 #### Commit and Push
 
@@ -281,6 +284,7 @@ repository history, and pushing this history to you remote on _GitHub_.
 ###### Using _GitHub Desktop_
 
 1. Use the _GitHub Desktop_ application commit the changes and push
+![GitHub commit](assets/github_desktop_commit.png "GitHub commit")
 
 ###### Using the terminal
 
@@ -309,10 +313,15 @@ into it
 
 #### Grading
 
-1. Go to the [_Portal_](https://portal.lisbondatascience.org)
-1. Select the sample learning unit and press "Grade"
-1. After grading is complete you should have 20/20
-1. Once you have your grade don't forget to do the [spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing) thing.
+1. Go to the [_Portal_](https://portal.lisbondatascience.org) and select the learning unit
+![Learning unit](assets/portal_sample_lu.png "Learning unit")
+1. Select "Grade"
+![Grade](assets/portal_grade.png "Grade")
+1. After grading is complete you should have 20/20 
+1. If everything passes locally but the grader doesn't give you the excepted 
+output head to out [troubleshooting](#_portal_)
+1. Once you have your grade don't forget to do the 
+[spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing) thing.
 
 ## Learning Unit Workflow
 
@@ -394,8 +403,9 @@ If so we will first ask to do a bit of troubleshooting.
 `environment.yml` file (changes to this file or your local environment have no
 effect)
 1. In the learning unit page in the [_Portal_](https://portal.lisbondatascience.org/)
-you are able to download the exercise notebook with the results of the grader,
-have a look to figure out what went wrong.
+you are able to download the exercise notebook with the results of the grader
+by clicking your grade, have a look to figure out what went wrong.
+![Download notebook](assets/portal_download_notebook.png "Download notebook")
 If none of these steps helped go ahead and open a support ticket for the portal
 [here](https://github.com/LDSSA/batch3-portal-support).
 
