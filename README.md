@@ -104,6 +104,7 @@ provide to you in our [_Portal_](https://portal.lisbondatascience.org/).
 1. Log in with your _GitHub_ account
 1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and 
 copy the deploy key
+![Profile](assets/profile.png "Profile")
 1. Go back to the repository you have just created
 1. Go to `Settings > Deploy Keys`
 1. Click "Add deploy key"
