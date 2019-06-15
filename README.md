@@ -209,7 +209,7 @@ learning unit directory (the one in your `batch3-workspace`).
 ###### Using the Terminal
 
 ```bash
-cd batch3-workspace/sample/SLU00\ -\ Pandas\ 101
+cd batch3-workspace/sample/SLU00\ -\ LU\ Tutorial
 conda env create -n slu00 --file environment.yml
 ```
 
