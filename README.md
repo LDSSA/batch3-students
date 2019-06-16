@@ -55,7 +55,7 @@ in different operating systems and ensuring everyone gets the same results
 is a challenging task.
 _Anaconda_ is currently the best solution for this problem.
 
-Go to [_Anaconda_](https://www.continuum.io/distribution/) for installation 
+Go to [_Anaconda_](https://www.anaconda.com/distribution/) for installation 
 instructions.
 
 **If you are on windows**
