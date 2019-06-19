@@ -1,7 +1,0 @@
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - jupyter=1.0.0
-  - pandas=0.24.1
-  - nbgrader=0.5.5
