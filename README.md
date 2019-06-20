@@ -56,7 +56,7 @@ is a challenging task.
 _Anaconda_ is currently the best solution for this problem.
 
 Go to [_Anaconda_](https://www.anaconda.com/distribution/) for installation 
-instructions.
+instructions. **BE SURE to choose "Python 3.7 version".**
 
 **If you are on windows**
 
