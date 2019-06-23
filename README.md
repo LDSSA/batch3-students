@@ -18,7 +18,8 @@ workflow you'll use during the academy.
     1. [_Portal_](#_portal_)
     1. [Other](#other)
 
-There is also a screencast to accompany this readme:
+There is also a screencast to accompany this readme. Please note that there is one known issue so far in the screencast
+in that the clone of the batch3-students needs to be done by URL (as is shown in this README) and not by filter.
 
 [![screencast](https://img.youtube.com/vi/6cHRO-ab_L4/0.jpg)](https://www.youtube.com/watch?v=6cHRO-ab_L4)
 
