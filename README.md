@@ -153,7 +153,7 @@ as the academy progresses.
 
 1. Select "File > Clone repository" on the menubar
 ![Clone menubar](assets/clone.png "Clone form the menubar")
-1. Filter by "batch3-students"
+1. Select by URL "ldssa/batch3-students"
 ![Select by URL](assets/select-by-url.png "Select by URL")
 1. Select and press clone
 
