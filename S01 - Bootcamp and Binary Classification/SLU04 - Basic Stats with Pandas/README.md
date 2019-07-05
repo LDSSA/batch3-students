@@ -1,4 +1,4 @@
-# Small Learning Unit 4 - Basic Stats with Pabdas
+# Small Learning Unit 4 - Basic Stats with Pandas
 
 #### [Presentation](https://docs.google.com/presentation/d/1R-CurrflXaVvyq25h2WFfykbuWR96_VSuQvLfkZj1Wk/edit?usp=sharing)
 
