@@ -1,4 +1,4 @@
-# Small Learning Unit 17 - Data Sufficiency and Selection
+# Small Learning Unit 16 - Data Sufficiency and Selection
 
 Learn how carefully select your features and understand your model performance as data is added to the training process
 in order to keep your complexity under control and win the tradeoff between bias and variance.
