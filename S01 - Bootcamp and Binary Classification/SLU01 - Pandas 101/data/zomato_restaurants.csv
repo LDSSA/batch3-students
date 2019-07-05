@@ -1,0 +1,601 @@
+id,name,locality,city,cuisines,establishment,average_cost_for_two,all_reviews_count,photo_count,has_table_booking,has_online_delivery,aggregate_rating,votes,timings
+18487870,Boa-Bao,Chiado,Lisboa,"Oriental, Thai, Malaysian, Filipino, Vietnamese, Korean, Japanese, Chinese",Casual Dining,40,1521,3733,0,0,4.9,3943,"12:00 a 23:00 (Seg, Ter, Qua, Qui, Dom), 12:00 a 00:30 (Sex-Sáb)"
+18550207,SOI,Cais do Sodré,Lisboa,"Chinese, Oriental, Japanese, Vietnamese, Korean, Indian, Thai",Casual Dining,45,480,1363,0,0,4.3,1168,"12 Noon to 12 Midnight (Mon-Thu, Sun), 12 Noon to 1 AM (Fri-Sat)"
+8212998,Ground Burger,Praça de Espanha,Lisboa,"Burger, American",Casual Dining,40,1430,2337,0,0,4.5,3000,12 Noon a 12 Midnight
+18301225,Amaterasu Pateo do Sushi,Algés,Lisboa,"Sushi, Japanese",Casual Dining,40,676,1094,0,0,4.5,1615,"12:00 a 15:30, 19:00 a 23:30 (Seg-Dom)"
+18605050,Contrabando,Santos,Lisboa,"American, Latin American, BBQ, Steak",Casual Dining,30,372,1117,1,0,4.3,869,"Seg-Qui, Dom (12 Noon to 11:59 PM), Sex-Sáb (12 Noon to 2 AM)"
+18663838,Amélia Lisboa,Campo de Ourique,Lisboa,"Desserts, Juices, Healthy Food, Finger Food",Café,20,731,1820,0,0,4.6,1799,09:00 a 21:00 (Seg-Dom)
+18393793,Polpetta - Almondegaria Artesanal,Arroios,Lisboa,"Portuguese, Healthy Food",Casual Dining,25,514,1121,1,0,4.6,1184,"12:00 a 15:00, 19:30 a 22:30 (Seg-Sáb),Fechado (Dom)"
+18581804,Jamie's Italian,Príncipe Real,Lisboa,Italian,Casual Dining,40,647,1920,0,0,4.4,1478,"12 Noon to 11 PM (Mon-Thu, Sun), 12 Noon to 12 Midnight (Fri-Sat)"
+8204902,Siesta,Algés,Lisboa,Mexican,Casual Dining,50,1214,2144,0,0,4.1,3102,"12 Noon to 1 AM (Mon-Fri), 12:30 PM to 1 AM (Sat-Sun)"
+18570049,Mez Cais LX,"LX Factory, Alcântara",Lisboa,"Mexican, Beverages",Casual Dining,30,401,716,1,0,4.1,928,"12:00 – 24:00 (Mon, Tue, Wed, Thu, Sun), 12:00 – 23:30 (Fri-Sat)"
+18425560,O Quintal,Venteira,Lisboa,"Petiscos, Portuguese, Mediterranean",Casual Dining,35,663,1819,1,0,4.5,1385,"12:30 PM to 3 PM, 7:30 PM to 11 PM"
+18677130,Zenith Brunch & Cocktail,Pena,Lisboa,"Healthy Food, Vegetarian, Juices, International",Quick Bites,25,447,1102,0,0,4.6,1152,9 AM to 7 PM
+18619569,Soão - Taberna Asiática,Alvalade,Lisboa,"Korean, Chinese, Japanese, Indian, Vietnamese, Thai",Casual Dining,60,309,933,0,0,4.7,871,"12:30 PM a 3:30 PM, 7:30 PM a 11 PM (Seg-Qui), 12:30 PM a 3:30 PM, 7:30 PM a 12 Midnight (Sex), 12:30 PM a 12 Midnight (Sáb), 12:30 PM a 11 PM (Dom)"
+18551785,Zero Zero - Parque das Nações,Parque das Nações,Lisboa,"Pizza, Italian",Casual Dining,50,569,1141,0,0,4.4,1303,12 Noon to 12 Midnight
+18719249,The Green Affair,Saldanha,Lisboa,"Contemporary, Healthy Food, Vegetarian",Casual Dining,20,172,390,1,0,4.5,493,12:00 a 23:00 (Seg-Dom)
+18335531,Nómada,Campo Pequeno,Lisboa,"Sushi, Contemporary",Casual Dining,60,474,1369,1,0,4.9,1248,"12:30 PM a 3 PM, 7:30 PM a 11 PM (Seg-Qui), 12:30 PM a 3 PM, 7:30 PM a 11:30 PM (Sex), 1 PM a 3:30 PM, 7:30 PM a 11:30 PM (Sáb), 1 PM a 3:30 PM, 7:30 PM a 11 PM (Dom)"
+8210567,Atalho Real,Príncipe Real,Lisboa,"Steak, Burger",Casual Dining,45,1470,2466,0,0,4.7,3603,"12 Noon a 12 Midnight (Seg-Qua, Dom), 12 Noon a 12 Midnight, 12 Midnight a 1 AM (Qui-Sáb)"
+8202867,Psi,Pena,Lisboa,Vegetarian,Casual Dining,30,687,1701,1,0,4.6,1785,"12:30 PM to 3:30 PM, 7:30 PM to 10:30 PM (Mon-Sat), Sun Closed"
+18463068,SushiNow,Parque das Nações,Lisboa,"Japanese, Sushi",Casual Dining,45,400,902,0,0,4.5,1018,"12:30 PM to 3 PM, 7:30 PM to 11 PM (Ter-Sex, Dom), 12:30 PM to 3 PM, 7 PM to 11 PM (Sáb), Seg Fechado"
+8213530,The Old House,Parque das Nações,Lisboa,Chinese,Fine Dining,60,582,1489,0,0,4.7,1231,"12 Noon a 3 PM, 7 PM a 11 PM"
+8214506,Ribs & Company,Odivelas Centro,Lisboa,"American, Steak, Burger",Casual Dining,25,898,2064,0,0,4.5,2006,"12 Noon a 3 PM, 7 PM a 11 PM (Ter-Qui), 12 Noon a 3:30 PM, 7 PM a 11:30 PM (Sex), 12 Noon a 11:30 PM (Sáb), 12 Noon a 11 PM (Dom), Seg Fechado"
+18594986,Kin,Mouraria,Lisboa,"Oriental, Beverages",Casual Dining,40,203,648,1,0,4.5,534,"8 PM to 12 Midnight (Mon-Sat), Sun Closed"
+8213440,Sala de Corte,Cais do Sodré,Lisboa,Steak,Casual Dining,60,555,1447,0,0,4.7,1211,"12:00 a 16:00, 19:00 a 24:00 (Seg-Qui),12:00 a 16:00, 19:00 a 01:00 (Sex),12:00 a 01:00 (Sáb),12:00 a 24:00 (Dom)"
+18401933,The B Temple,Chiado,Lisboa,"Burger, Finger Food",Casual Dining,30,988,1906,1,0,4.6,2304,Seg-Dom (12 Noon to 11:59 PM)
+8213881,Don Costini,Saldanha,Lisboa,"Pizza, Burger, Italian, American, Gourmet Fast Food",Casual Dining,25,534,960,1,0,4.0,1044,"12:00 a 16:00, 19:00 a 23:00 (Seg, Ter, Qua, Dom), 12:00 a 16:00, 19:00 a 24:00 (Qui-Sáb)"
+8202270,Italy - Lisbona Caffé,Saldanha,Lisboa,"Italian, Pizza",Casual Dining,35,759,1422,1,0,4.4,1807,12 Noon to 12 Midnight
+18446907,Heim Cafe,Santos,Lisboa,"Cafe, Healthy Food, Tea",Café,20,557,1155,0,0,4.6,1317,"09:00 – 15:00 (Mon),09:00 – 18:00 (Tue-Sun)"
+8203651,Las Ficheras,Cais do Sodré,Lisboa,"Mexican, Beverages",Casual Dining,40,1115,2006,1,0,4.1,2513,"11 AM to 1 AM (Mon-Thu, Sun), 11 AM to 2 AM (Fri-Sat)"
+18275215,Butchers,Parque das Nações,Lisboa,"Steak, Burger, Grill",Casual Dining,40,1012,1772,0,0,4.6,2411,"12:00 a 15:00, 19:00 a 23:00 (Seg-Qua),12:00 a 15:00, 19:00 a 23:30 (Qui-Sex),12:30 a 15:00, 19:00 a 23:30 (Sáb),12:30 a 15:00, 19:00 a 23:00 (Dom)"
+8201924,Jardim dos Sentidos,Avenida da Liberdade,Lisboa,"Vegetarian, Healthy Food",Casual Dining,35,580,1241,1,0,4.6,1423,"12:00 a 15:00, 19:00 a 22:30 (Seg-Sex),12:30 a 15:30, 19:00 a 22:30 (Sáb),Fechado (Dom)"
+18556901,Chutnify - Príncipe Real,Príncipe Real,Lisboa,"Indian, Vegetarian, Healthy Food",Casual Dining,45,345,743,1,0,4.5,824,"12 Noon to 3 PM, 7 PM to 11 PM (Mon-Wed), 12 Noon to 3 PM, 7 PM to 12 Midnight (Thu-Fri), 1 PM to 4 PM, 7 PM to 12 Midnight (Sat), 1 PM to 4 PM, 7 PM to 11 PM (Sun)"
+18335493,Ao 26 Vegan Food Project,Chiado,Lisboa,"Vegetarian, Healthy Food, Vegan",Casual Dining,30,511,1332,0,0,4.8,1207,"12:30 PM a 3:30 PM (Seg), 12:30 PM a 6:30 PM, 7:30 PM a 11 PM (Ter-Sáb), Dom Fechado"
+8214190,Nogueira's Lisboa,Santos,Lisboa,"BBQ, Latin American, Grill, Steak",Casual Dining,50,942,1933,0,0,4.6,2303,"12:15 a 15:00, 20:00 a 23:00 (Seg-Qui),12:15 a 15:00, 20:00 a 24:00 (Sex),13:00 a 15:00, 20:00 a 24:00 (Sáb),13:00 a 15:00 (Dom)"
+18388604,O Asiático,Príncipe Real,Lisboa,"Author, Oriental",Fine Dining,60,491,1472,1,0,4.6,1124,"7 PM a 12 Midnight (Seg-Qui), 12 Noon a 5 PM, 7 PM a 12 Midnight (Sex-Dom)"
+8204019,Volver de Carne Y Alma,Lumiar,Lisboa,"Argentine, Grill, Steak, Fusion, Author, Latin American",Fine Dining,80,877,2580,1,0,4.9,2061,"12:30 PM a 3:30 PM, 7:30 PM a 12 Midnight, 12 Midnight a 12:30 AM (Seg-Qua), 12:30 PM a 3 PM, 7:30 PM a 12 Midnight, 12 Midnight a 12:30 AM (Qui), 12:30 PM a 3 PM, 8 PM a 12 Midnight, 12 Midnight a 1 AM (Sex), 8 PM a 12 Midnight, 12 Midnight a 1 AM ("
+8201919,Guilty by Olivier,Avenida da Liberdade,Lisboa,"Italian, Pizza, Burger, Beverages",Fine Dining,60,586,1125,0,0,4.2,1490,"12:30 a 15:30, 19:30 a 01:00 (Seg-Qua),12:30 a 15:30, 19:30 a 03:00 (Qui-Sex),12:30 a 16:00, 19:30 a 03:00 (Sáb),12:30 a 16:00, 19:30 a 01:00 (Dom)"
+18332964,Olá Nepal,Marquês de Pombal,Lisboa,"Nepalese, Indian",Casual Dining,20,348,242,1,0,4.4,683,"11 AM to 3 PM, 6:30 PM to 11 PM"
+8212800,Popolo - Pizza & Burger,Santos,Lisboa,"Burger, Pizza, Beverages",Casual Dining,25,1419,2385,0,0,4.0,2989,"12:00 a 24:00 (Seg, Ter, Qua, Qui, Dom), 12:00 a 01:00 (Sex-Sáb)"
+8209554,Suntory,Campolide,Lisboa,"Japanese, Sushi",Fine Dining,60,503,1228,0,0,4.5,1217,"12 Noon to 3:30 PM, 7 PM to 11 PM (Mon-Thu, Sun), 12 Noon to 3:30 PM, 7 PM to 11:30 PM (Fri-Sat)"
+18250873,Cartel 36,Parque das Nações,Lisboa,"Contemporary, Steak",Casual Dining,40,346,947,0,0,4.5,730,"Fechado (Seg),12:30 a 15:30, 19:30 a 24:00 (Ter-Dom)"
+8208899,Maria Azeitona,Venteira,Lisboa,"Portuguese, Petiscos",Casual Dining,25,1026,1787,0,0,4.7,2264,"12 Noon to 4 PM, 7 PM to 12 Midnight"
+18319604,Pop Cereal Café,Bairro Alto,Lisboa,"Desserts, Cafe, Finger Food, Tea, Beverages",Dessert Parlour,8,554,1099,0,0,4.7,1075,9 AM a 12 Midnight
+18545601,SUD Lisboa,Belém,Lisboa,"Mediterranean, Italian, Portuguese, Finger Food, Cafe, Beverages",Lounge,80,570,976,0,0,4.5,1384,12:00 to 02:00 (Mon-Sun)
+18293899,Beija-me Burro,Oeiras e São Julião da Barra,Lisboa,"Tapas, Petiscos",Casual Dining,40,383,899,1,0,4.4,771,"12:00 a 15:30, 19:30 a 24:00 (Seg, Qua, Qui, Sex, Sáb, Dom), Fechado (Ter)"
+8214657,Zero Zero - Príncipe Real,Príncipe Real,Lisboa,"Pizza, Italian",Casual Dining,50,1109,2040,0,0,4.5,2396,12:00 a 24:00 (Seg-Dom)
+8211443,Taberna A Preciosa - Petiscos,Lumiar,Lisboa,"Petiscos, Tapas, Portuguese",Casual Dining,40,493,946,0,0,4.2,939,"12 Noon a 11 PM (Ter-Sáb), Seg & Dom Fechado"
+18250890,Sushi dos Sá Morais,Marquês de Pombal,Lisboa,"Sushi, Japanese",Casual Dining,40,382,950,1,0,4.3,871,"Seg-Dom (12 Noon to 3 PM, 8 PM to 11 PM)"
+8210596,Ciao Cuore,Massamá,Lisboa,"Italian, Pizza, Sushi",Casual Dining,30,342,547,0,0,4.5,955,"7 PM to 10:30 PM (Tue), 12 Noon to 3 PM, 7 PM to 10:30 PM (Wed-Sun), Mon Closed"
+8212807,Sushisan,Saldanha,Lisboa,"Japanese, Sushi",Casual Dining,45,750,1235,0,0,4.1,1709,"12 Noon a 3 PM, 8 PM a 11 PM (Seg-Sáb), Dom Fechado"
+16688193,Browns Bar & Brasserie,Windsor and Maidenhead,South East England,Others,,0,6,40,1,0,3.7,9,
+16686584,Jamie's Italian Guildford,Guildford,South East England,Italian,Casual Dining,20,58,13,0,0,3.7,77,
+16686436,Sportsman,Canterbury,South East England,British,,20,38,27,0,0,4.8,72,"Closed (Mon),12 Noon to 2 PM, 7 PM to 9 PM (Tue-Sat),12 Noon to 2:30 PM (Sun)"
+16686337,Wagamama,Reading,South East England,Asian,,12,5,10,0,0,4.5,62,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686446,Nando's,Reading,South East England,Portuguese,,5,6,8,0,0,4.5,38,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686486,Waterside Inn,Windsor and Maidenhead,South East England,French,,0,31,29,0,0,4.7,57,"12 Midnight to 12:30 AM (Mon),Closed (Tue),8 AM to 12 Midnight (Wed),8 AM to 12:30 AM (Thu-Sun)"
+16686324,Le Manoir Aux Quat Saisons,South Oxfordshire,South East England,French,,0,22,32,0,0,4.7,47,"7:30 AM to 10 AM, 11:45 AM to 2:15 PM, 6:45 PM to 9:30 PM (Mon-Sun)"
+16687044,Terre à Terre,Brighton,South East England,,,12,9,19,1,0,4.3,27,12 Noon to 10:30 PM (Mon-Sun)
+16686768,The Grand Cafe,Oxford,South East England,"Breakfast, Coffee and Tea, Sandwich",,12,5,7,0,0,4.1,13,"Breakfast, Lunch (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686457,Nando's,Reading,South East England,Portuguese,,5,3,3,0,0,4.3,23,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686647,Jamie's Italian,Oxford,South East England,Italian,Casual Dining,30,15,19,0,0,4.5,42,
+16686466,Jamie's Italian,Brighton,South East England,Italian,Casual Dining,30,13,15,0,0,4.4,45,
+16686421,Wagamama,Guildford,South East England,Asian,Noodle Shop,12,6,9,0,0,4.3,22,
+16686592,Latymer,Surrey Heath,South East England,"European, French",,0,13,40,0,0,4.4,18,"(Sun, Mon), Lunch, Dinner (Tue-Fri),Dinner (Sat)"
+16687679,Jamie's Italian,Airport: Gatwick: LGW,South East England,Italian,Casual Dining,20,12,30,0,0,4.1,19,
+16686234,Food for Friends,Brighton,South East England,,,12,12,12,0,0,4.3,33,
+16687106,Turf Tavern,Oxford,South East England,"Bar Food, British",,5,13,13,0,0,4.6,29,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686280,St George & Dragon,Reading,South East England,"International, Bar Food, Fusion",,20,14,12,0,0,4.0,32,
+17842636,Taj Mahal Restaurant - Southampton,Southampton,South East England,"Bangladeshi, North Indian, Indian, Curry",Casual Dining,35,0,0,1,0,0,1,"5:30 PM to 10:30 PM (Mon-Thu), 5 PM to 11 PM (Fri-Sat), 5 PM to 10:30 PM (Sun)"
+16686830,Gee's restaurant,Oxford,South East England,Others,,0,8,36,0,0,4.1,13,"10 AM to 10:30 PM (Mon, Tue, Wed, Thu, Sun), 9:45 AM to 11 PM (Fri-Sat)"
+16686181,Thai Terrace,Guildford,South East England,Thai,,20,9,5,0,0,4.6,44,
+16686363,Tacos Locos,Canterbury,South East England,"Mexican, Tex-Mex",,12,18,7,0,0,4.0,30,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686743,Pho,Brighton,South East England,"Asian, Vietnamese",Casual Dining,5,11,13,0,0,4.3,29,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686553,McDonald's,Dover,South East England,"American, Burger",,5,0,0,0,0,2.6,2,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16688020,64 Degrees,Brighton,South East England,"European, British",,0,9,26,0,0,4.4,18,"(Sun),Lunch, Dinner (Mon-Sat)"
+16686251,Royal Oak,Windsor and Maidenhead,South East England,"European, British",,20,12,21,0,0,4.4,21,"12 Noon to 2:30 PM, 6:30 PM to 9:30 PM (Mon-Thu),12 Noon to 2:30 PM, 6:30 PM to 10 PM (Fri-Sat),12 Noon to 3:30 PM (Sun)"
+16686873,Atomic Burger,Oxford,South East England,"American, Burger",,12,9,13,0,0,4.3,30,"10 AM to 2:30 PM, 5 PM to 10:30 PM (Mon-Fri),10 AM to 10:30 PM (Sat-Sun)"
+16686795,Ascot Grill,Windsor and Maidenhead,South East England,"Burger, Steak",,20,14,4,0,0,4.2,33,"(Sun),Lunch, Dinner (Mon-Sat)"
+18767894,The Little Fish Shop,Dover,South East England,Fish and Chips,Casual Dining,15,0,0,1,0,0,1,"12 Noon to 9 PM (Mon-Sat), 12 Noon to 8:30 PM (Sun)"
+16686546,KFC,Dover,South East England,American,,5,0,0,0,0,0,1,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686329,L'Ortolan,Reading,South East England,"European, French, British",,0,5,18,0,0,4.3,29,"(Sun, Mon), Lunch, Dinner (Tue-Sat)"
+16687028,The Crown at Bray,Windsor and Maidenhead,South East England,"Bar Food, British",Wine Bar,12,14,12,0,0,4.5,21,"11:30 AM to 11 PM (Mon-Sat),12 Noon to 8 PM (Sun)"
+16686734,The Chilli Pickle,Brighton,South East England,Indian,,12,9,3,0,0,4.4,31,"12 Noon to 3 PM, 6 PM to 10:30 PM (Mon-Sat),12 Noon to 3 PM, 6 PM to 10 PM (Sun)"
+16686365,London Street Brasserie,Reading,South East England,"French, Mediterranean, British",,20,4,2,0,0,4.4,35,"12 Noon to 10:30 PM (Mon, Tue, Wed, Thu, Sun), 12 Noon to 11 PM (Fri-Sat)"
+16686643,The Carpenters,Windsor and Maidenhead,South East England,French,,20,15,3,0,0,4.3,20,"Lunch (Sun),Lunch, Dinner (Mon-Sat)"
+16686184,Bluebells Restaurant & Bar,Windsor and Maidenhead,South East England,European,,0,4,7,0,0,4.1,27,
+16687786,The Vaults & Garden Cafe,Oxford,South East England,"Breakfast, Mediterranean",,0,8,14,0,0,4.1,13,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686635,Kebab Elite,Windsor and Maidenhead,South East England,"Turkish, British",Quick Bites,5,8,0,0,0,4.4,11,"12 Noon to 12 Midnight (Mon-Fri), 12 Noon to 2:30 AM (Sat-Sun)"
+16688032,Turtle Bay,Southampton,South East England,Caribbean,,12,5,21,0,0,3.6,7,
+17842663,Silo,Brighton,South East England,"Coffee and Tea, British",Bakery,12,6,20,0,0,3.8,9,"9 AM to 5 PM (Mon-Wed),9 AM to 8:30 PM (Thu-Sat),10 AM to 5 PM (Sun)"
+16686726,Moo Moo's Milkshakes,Oxford,South East England,Beverages,,5,9,5,0,0,4.5,21,"Breakfast, Lunch (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16687220,Eagle and Child,Oxford,South East England,Bar Food,,5,8,8,0,0,4.2,19,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri), Lunch, Dinner, Late (Sat)"
+16686673,Wagamama,Oxford,South East England,"Asian, Japanese",,12,7,16,0,0,4.1,11,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16686877,Bill's Restaurant,Reading,South East England,"Breakfast, British",,12,7,7,0,0,4.4,18,"8 AM to 10:30 AM (Mon-Sat),9 AM to 10 PM (Sun)"
+16686110,Royal China,Reigate and Banstead,South East England,Chinese,,0,2,0,0,0,3.9,4,
+16686492,Cafe des Amis,Canterbury,South East England,Mexican,,20,8,6,0,0,4.3,20,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16688253,Ben's Cookies,Oxford,South East England,Desserts,,5,9,5,0,0,4.3,19,
+16686226,Drake's,Guildford,South East England,European,,0,5,17,0,0,4.2,11,"Closed (Mon, Sun), 7 PM to 9:15 PM (Tue),12 Noon to 2 PM, 7 PM to 9:15 PM (Wed-Sat)"
+16687222,Suwanna Thai,West Oxfordshire,South East England,Thai,,20,1,0,0,0,0,3,
+16686816,Casa Don Carlos,Brighton,South East England,"Spanish, Tapas",,12,6,8,0,0,4.3,15,"(Sun),Lunch, Dinner (Mon-Thu),Lunch, Dinner, Late (Fri-Sat)"
+16686649,Browns - Restaurant & Bar,Oxford,South East England,"Breakfast, Desserts",,12,7,5,1,0,3.8,16,"Lunch, Dinner (Sun),Breakfast, Lunch, Dinner (Mon-Sat)"
+16687543,Seasons Restaurant at Baylis House,Slough,South East England,Indian,,0,0,7,0,0,0,3,
+16686648,4500 Miles From Delhi – Oxford,Oxford,South East England,Indian,,12,8,3,1,0,4.2,16,"12 Noon to 2:30 PM, 5:30 PM to 11 PM (Mon-Thu), 12 Noon to 2:30 PM, 5:30 PM to 11:30 PM (Fri-Sat), 12 Noon to 2:30 PM, 5 PM to 10:30 PM (Sun)"
+16686664,Riddle and Finns,Brighton,South East England,"Breakfast, Seafood, Fish and Chips",,12,4,7,0,0,4.1,15,"Breakfast, Lunch, Dinner (Sun),Lunch, Dinner (Mon-Thu),Lunch, Dinner, Late (Fri),Breakfast, Lunch, Dinner, Late (Sat)"
+16687296,The Pig,New Forest,South East England,"Seafood, British",,0,8,9,0,0,3.7,13,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16687055,Restaurant Coworth Park,Windsor and Maidenhead,South East England,British,,0,5,16,1,0,3.9,9,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16688322,Casamia,Bristol,South West England,British,,0,18,128,0,0,4.5,26,"Closed (Mon, Sun), 12 Noon to 2 PM, 6 PM to 9:30 PM (Tue-Sat)"
+16688377,Za Za Bazaar,Bristol,South West England,"American, Asian, Mexican",,12,24,101,0,0,4.6,47,"12 Noon to 11 PM (Mon-Fri),11 AM to 11 PM (Sat-Sun)"
+16688509,Loch Fyne,Bristol,South West England,Seafood,,20,4,78,0,0,3.6,10,"12 Noon to 10 PM (Mon-Thu),12 Noon to 10:30 PM (Fri-Sat),12 Noon to 9:30 PM (Sun)"
+16688361,The Ethicurean,Bristol,South West England,British,,20,8,59,0,0,4.2,11,"Closed (Mon),10 AM to 4 PM (Tue-Thu),10 AM to 11 PM (Fri-Sat),10 AM to 5 PM (Sun)"
+16688267,Le Champignon Sauvage,Cheltenham,South West England,French,,0,15,32,0,0,4.4,30,"Closed (Mon, Sun), 12:30 PM to 1:15 PM, 7:30 PM to 8:30 PM (Tue-Sat)"
+16688944,Glassboat,Bristol,South West England,"European, French, British",,20,2,67,0,0,3.4,4,"8 AM to 10 PM (Mon-Sat),8 AM to 4 PM (Sun)"
+16688508,San Carlo - Bristol,Bristol,South West England,Others,,0,5,64,0,0,4.1,8,
+16688869,The Stable,Bristol,South West England,"Italian, Pizza",,12,4,57,0,0,3.8,9,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16688321,Pieminister,Bristol,South West England,British,,5,9,12,0,0,4.3,23,"10 AM to 11 PM (Mon-Sat),11 AM to 11 PM (Sun)"
+16688408,Elephant,Torquay,South West England,Others,,0,9,18,0,0,4.2,16,"Closed (Mon, Sun), 6:30 AM to 9 PM (Tue-Sat)"
+16688785,Las Iguanas - Cribbs Causeway,Bristol,South West England,"Latin American, New Mexican, Bar Food",,12,2,29,0,0,3.3,4,"12 Noon to 11 PM (Mon-Sat),12 Noon to 10:30 PM (Sun)"
+16688407,Fifteen Cornwall,Newquay,South West England,Italian,,0,5,18,0,0,3.6,9,"8:30 AM to 10 AM, 12 Noon to 2:30 PM, 6:15 PM to 9:15 PM (Mon-Sun)"
+16688400,Pony and Trap,Bristol,South West England,British,,20,5,16,0,0,4.1,13,"Closed (Mon),12 Noon to 2:30 PM, 7 PM to 9:30 PM (Tue-Sat),12 Noon to 3:30 PM, 7 PM to 9:30 PM (Sun)"
+18408879,Beachside Grill,North Devon,South West England,"American, Grill",Casual Dining,70,3,33,0,0,3.4,5,9 AM to 11 PM (Mon-Sun)
+16688618,Dosa World,Bournemouth,South West England,Indian,,5,5,6,0,0,4.0,10,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16688454,Sotto Sotto,Bath,South West England,Italian,,20,5,13,0,0,4.4,12,"12 Noon to 2:30 PM, 5 PM to 10:30 PM (Mon-Sun)"
+16688440,Restaurant Nathan Outlaw,Padstow,South West England,"Seafood, British",,0,8,17,0,0,3.8,9,"Closed (Mon, Sun), 7 PM to 9 PM (Tue-Sat)"
+16688263,Lumiere,Cheltenham,South West England,British,,0,6,8,0,0,4.3,18,"(Sun, Mon), Dinner (Tue),Lunch, Dinner (Wed-Sat)"
+16688448,Nando's,Bristol,South West England,Others,,0,6,14,0,0,4.2,10,
+16688398,Real Italian Pizza Company,Bath,South West England,"Italian, Pizza",,12,7,11,0,0,4.1,9,
+16688734,"Graze, Bar, Brewery and Chophouse",Bath,South West England,"Breakfast, Steak, British",,20,4,15,0,0,3.6,5,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu), Breakfast, Lunch, Dinner, Late (Fri-Sat)"
+16688428,Paul Ainsworth at Number 6 Restaurant,Padstow,South West England,British,,0,6,2,0,0,4.3,13,"Closed (Mon, Sun), 12 Noon to 2:30 PM, 6 PM to 10 PM (Tue-Sat)"
+16688415,Bill's Restaurant,Exeter,South West England,"Breakfast, European, British",,12,5,6,0,0,3.9,10,"8 AM to 11 PM (Mon-Sat),9 AM to 10:30 PM (Sun)"
+16688807,La Fregate,Guernsey,South West England,Seafood,,0,3,13,0,0,3.7,4,
+16688747,Las Iguanas Exeter,Exeter,South West England,"Latin American, Mexican",Casual Dining,12,3,11,1,0,3.5,6,"10 AM to 11 PM (Mon-Wed), 10 AM to 12 Midnight (Thu-Sat), 10 AM to 10:30 PM (Sun)"
+16688431,Eastern Eye,Bath,South West England,Indian,,20,5,3,0,0,4.0,12,"12 Noon to 2:30 PM, 6 PM to 11:30 PM (Mon-Fri),12 Noon to 11:30 PM (Sat-Sun)"
+17842703,The Wild Rabbit,Cotswold,South West England,British,Pub,12,3,12,0,0,3.8,5,
+16688348,The Butchers Arms,Tewkesbury,South West England,British,,0,1,17,0,0,3.5,1,"Closed (Mon),7 PM to 9 PM (Tue-Thu),12 Noon to 1 PM, 7 PM to 9 PM (Fri-Sat),12 Noon to 1 PM (Sun)"
+16688347,The Kingham Plough,Cotswold,South West England,British,,0,6,3,0,0,2.4,9,"12 Noon to 9 PM (Mon-Thu),12 Noon to 9:30 PM (Fri-Sat),12 Noon to 3 PM, 6 PM to 8 PM (Sun)"
+19108293,BLACK PEARL CAFE & LOUNGE,Basti Locality,Basti,North Indian,,250,0,6,0,0,0,0,11:30 AM to 10:30 PM
+19076933,Noélia,Cabanas de Tavira,Algarve,Portuguese,Casual Dining,45,12,42,0,0,4.3,29,"12 Noon to 3:30 PM, 7 PM to 10:30 PM"
+19095832,Noor Banglore Bakery And Pizza Corner,Jagtial Locality,Jagtial,"Bakery, Burger, Pizza",Bakery,300,0,1,0,1,3.7,5,11 AM to 11 PM
+19095536,Halfway Home,Gokarna Locality,Gokarna,"South Indian, North Indian",Casual Dining,300,0,8,0,0,0,0,9 AM to 9 PM
+19086528,STONE ICE,Siddipet Locality,Siddipet,"Burger, Ice Cream, Pizza",Bakery,350,1,4,0,1,3.4,7,(Mon-Sun)
+19109807,Every day pizza,Sitapur Locality,Sitapur,,Quick Bites,200,0,0,0,0,0,0,11 AM to 11 PM
+19088872,Khana Khajana sweets & snacks home,Samastipur Locality,Samastipur,"North Indian, Chinese",Fine Dining,300,1,2,0,1,3.7,12,10 AM to 10 PM
+19036665,Laziz Pizza,Balasore Locality,Balasore,Pizza,Casual Dining,300,2,11,0,0,3.2,43,11 AM to 10 PM
+19100484,SRI SAI MOMS KITCHEN RESTAURANT,Adilabad Locality,Adilabad,"Chinese, Biryani, Beverages, Asian, Andhra, North Indian, Seafood",,350,2,12,0,1,3.8,25,12 Noon to 11 PM
+19100683,Sai Baba Chinese,Deesa Locality,Deesa,Chinese,Quick Bites,120,0,1,0,1,3.4,2,4:30pm – 11pm (Mon-Sun)
+19087064,CHENNAI KULFI,Namakkal Locality,Namakkal,"Desserts, Beverages",Casual Dining,150,0,6,0,1,0,0,11 AM to 11 PM
+19100862,Bebe di Roti,Malout Locality,Malout,"Desserts, Fast Food, Healthy Food, Ice Cream, North Indian, Tea",Fine Dining,300,0,4,0,1,3.4,4,11:30 AM to 11:30 PM
+19092819,CHATORA BITE,Mirzapur Locality,Mirzapur,North Indian,,150,0,5,0,1,3.6,3,2 PM to 10 PM
+19089500,Dasera Cafe,Chalisgaon Locality,Chalisgaon,"Sandwich, Pizza, Coffee, Burger",Café,80,0,3,0,1,3.4,3,
+19086075,7th Heaven,Motihari Locality,Motihari,"Desserts, Cuisine Varies",Bakery,400,2,16,0,1,3.5,58,10 AM to 10 PM
+19022733,Sensations Bistro,Karimnagar Locality,Karimnagar City,"Biryani, North Indian, Chinese, Continental",Quick Bites,300,26,48,0,1,4.2,71,12 Noon to 11 PM
+19085877,Bombay fast food,Sirhind Locality,Sirhind,"Burger, Chinese, Fast Food, Street Food, Wraps",Casual Dining,100,0,0,0,0,0,0,4 PM to 9 PM
+19088170,Chettinese combo restaurant,Thiruvallur Locality,Thiruvallur,"Beverages, Biryani, Chettinad, Chinese, Fast Food, Healthy Food, South Indian, Street Food",Fine Dining,300,0,2,0,1,3.3,14,12:30 PM to 11 PM
+19098472,Jalaram Fast food,Deesa Locality,Deesa,"South Indian, Sandwich, Pizza, Hot dogs, Fast Food, Burger, Drinks Only",Casual Dining,150,0,1,0,1,3.4,2,3 PM to 12 Midnight
+18742897,Glenary's Restaurant  & Bar,Chauk Bazaar,Darjeeling,"Beverages, Cafe, Chinese, Continental, North Indian, Momos",Bar,1000,172,427,0,0,4.0,340,12 Noon to 9:30 PM
+19087608,Hotel Way Wait Park Treat,Palanpur Locality,Palanpur,"South Indian, Pizza, North Indian, Gujarati, Fast Food",Café,200,0,25,0,1,3.7,5,10 AM to 11 PM
+19102245,PARIVAR MULTI CUISINE RESTAURANT,Siddipet Locality,Siddipet,"Biryani, North Indian, South Indian",Casual Dining,350,1,1,0,1,3.3,6,11:30 AM to 10 PM
+19092670,Aadyafee,Angul Locality,Angul,"Beverages, Coffee, Sandwich",Café,150,0,20,0,0,0,0,4:30 PM to 9:30 PM
+19086986,Eagel Family & Garden Restaurant,Gudivada Locality,Gudivada,"South Indian, Biryani",Casual Dining,350,0,7,0,1,3.7,11,"12 Noon to 3 PM, 3:30 PM to 10:30 PM"
+19095148,Royal Sagar Food Plaza,Jalpaiguri Locality,Jalpaiguri,"Biryani, Chinese, Coffee, Fast Food, North Indian",Casual Dining,100,1,11,0,1,3.5,11,
+19098874,Rumis Mesnevi Tea Hub,Attingal Locality,Attingal,"Beverages, Fast Food",Beverage Shop,100,0,4,0,1,0,0,11 AM to 11 PM
+19088988,Om Kathiyawadi Restaurant,Patan Locality,Patan,"Chinese, Continental, Gujarati, North Indian",Fine Dining,300,0,8,0,1,3.5,14,"10 AM to 3 PM, 6 PM to 11 PM"
+19095599,URBAN CHASKA,Mirzapur Locality,Mirzapur,North Indian,,300,1,6,0,1,3.4,3,12:30 PM to 10 PM
+19040030,Yum Chinese,Balasore Locality,Balasore,Chinese,Casual Dining,400,5,11,0,0,3.3,14,11 AM to 10:30 PM
+19084874,Yankees Pizza,Nangal Locality,Nangal,"Pizza, Italian, Fast Food, Chinese, Beverages",Quick Bites,200,0,1,0,1,3.5,2,10 AM to 10:30 AM
+19008826,Food Nation,Kadapa Locality,Kadapa,"Ice Cream, Biryani",Dessert Parlour,300,2,5,0,1,3.8,10,11:30 AM to 11 PM
+19093189,Hunger Grove - Cafe & Lounge,Narasaraopet Locality,Narasaraopet,"Fast Food, Beverages, Burger, Sandwich, North Indian, Chinese",Quick Bites,200,0,3,0,1,3.5,7,11 AM to 11 PM
+18701675,Kalsang,The Mall Road,Mussoorie,"Chinese, Thai, Tibetan, Momos",Casual Dining,800,120,188,0,0,4.0,238,10 AM to 10 PM
+19021221,Ramees Restaurant Caterers,Kollam Locality,Kollam,"North Indian, Chinese, South Indian, Arabian",Casual Dining,600,5,1,0,1,4.4,28,12 Noon to 10 PM
+19087049,New Krishna Sweets & Namkeen,Himatnagar Locality,Himatnagar,"Street Food, Ice Cream, Gujarati, Desserts, Bakery, Beverages, Mithai",Sweet Shop,100,0,17,0,1,3.4,4,11 AM to 6 PM
+19098326,KINGS BRIYANI,Dharmapuri Locality,Dharmapuri,Biryani,Quick Bites,150,1,1,0,1,0,0,11 AM to 9 PM
+17272120,Arctic Pizza,Barrow,Barrow,"Italian, Pizza",Pizzeria,25,2,1,0,0,3.3,26,11 AM to 10:30 PM
+19087193,MOLTEN CAVE,Gharounda Locality,Gharounda,"Burger, Cafe, Italian, Mexican, Wraps",Café,250,0,13,0,1,3.6,7,11 AM to 10:30 PM
+19099603,Manasa Juice Shop,Palasa-Kasibugga Locality,Palasa-Kasibugga,Juices,Beverage Shop,100,0,3,0,1,3.5,7,"10pm – 10:59pm (Mon),11am – 11pm (Tue-Sun)"
+16613688,Dundees,Cairns City,Cairns City,"Seafood, Steak, Modern Australian",Casual Dining,30,53,92,0,0,4.3,129,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+19100255,Bharat Restaurant,Vidisha Locality,Vidisha,"South Indian, Burger, Beverages, Chinese, North Indian",,250,1,5,0,1,3.7,9,1 PM to 11 PM
+18690552,Domino's Pizza,Devpura,Haridwar,"Fast Food, Pizza",Quick Bites,400,14,12,0,0,3.3,212,11 AM to 11 PM
+19101686,Zaika Restaurant,Balasore Locality,Balasore,"Biryani, Chinese, North Indian",Casual Dining,300,0,6,0,0,3.2,21,"12 Noon to 4 PM, 7 PM to 10:30 PM"
+19013818,K7 Restaurant,Gurdaspur Locality,Gurdaspur,North Indian,Quick Bites,350,0,6,0,1,4.1,16,9:30am – 11pm (Mon-Sun)
+18707294,Amar Punjabi Foods,Talwandi,Kota,North Indian,Casual Dining,250,219,123,0,1,4.8,2484,11 AM to 10:30 PM
+19046889,Jaiswal Hotel,Ambikapur Locality,Ambikapur,"South Indian, North Indian, Chinese, Mithai",Casual Dining,200,1,4,0,1,3.7,8,7 AM to 10 PM
+19093378,The Spoon Family Restaurant,Siddipet Locality,Siddipet,"Biryani, North Indian, South Indian",Casual Dining,300,0,7,0,1,3.6,3,11:45am – 12midnight (Mon-Sun)
+19088133,Celebration Mall,Yavatmal Locality,Yavatmal,"Bakery, Mithai",Bakery,250,2,7,0,1,0,0,11 AM to 11 PM
+19086019,Pomo's Pizza,Patan Locality,Patan,Pizza,Casual Dining,400,0,2,0,1,3.8,4,"11am – 4pm, 6pm – 11pm (Mon-Sun)"
+19095238,Lassi Shop,Chitradurga Locality,Chitradurga,"Juices, Beverages, Desserts",Café,150,1,3,0,1,3.4,11,
+19101373,Jain Sweets,Bijnor Locality,Bijnor,"Street Food, Desserts, Mithai",Sweet Shop,100,0,1,0,1,3.3,5,9 AM to 10:30 PM
+19095339,Appetour & Frootica,Gadag-Betageri Locality,Gadag-Betageri,"Burger, Desserts, Ice Cream, Pizza",Café,200,0,4,0,1,3.7,3,
+19104247,Sri Maheswari Bakes and Savouries,Sivakasi Locality,Sivakasi,"Arabian, Asian, Bakery, Juices, Pizza, Rolls",Café,200,0,1,0,1,0,0,10 AM to 11 PM
+19094811,Deep Kulcha's,KotKapura Locality,KotKapura,"Fast Food, Pizza, Sandwich, Street Food, Wraps",Food Court,150,0,3,0,1,3.8,2,10 AM to 7:30 PM
+19086057,Bollywood Town,Rampur Locality,Rampur,,Fine Dining,300,4,5,0,1,0,0,11 AM to 11 PM
+19091153,Kalpataru A Restaurant,Samastipur Locality,Samastipur,"Pizza, North Indian, Kebab, Chinese",Fine Dining,400,0,1,0,1,3.5,3,9 AM to 10 PM
+19105093,Subham Enterprise,Bankura Locality,Bankura,Bakery,Bakery,200,7,21,0,1,3.4,11,9 AM to 10 PM
+19024335,The Pizza Box,Bulandshahr Locality,Bulandshahr,Italian,,200,0,4,0,1,4.1,6,11 AM to 11 PM
+19011787,One Bite,Khanna Locality,Khanna,"Fast Food, Wraps, Beverages, Pizza",Café,400,5,20,0,1,4.1,56,"11am – 11pm (Mon-Tue),11am – 10pm (Wed-Sun)"
+19089499,Goli Vada Pav No.1,Malegaon Locality,Malegaon,Maharashtrian,Quick Bites,50,0,1,0,1,3.8,4,10 AM to 9:30 PM
+19023963,Pizza 99,Shahjahanpur Locality,Shahjahanpur,"Pizza, Fast Food, Beverages",Quick Bites,200,1,11,0,1,4.3,17,10am – 11pm (Mon-Sun)
+19092298,Shivoy's Cafe,Bundi Locality,Bundi,Fast Food,Quick Bites,200,3,3,0,1,3.5,23,11 AM to 11 PM
+19095419,Bakers Table,Rampur Locality,Rampur,"Beverages, Burger, Cafe, Coffee, Desserts",Dessert Parlour,300,1,0,0,0,0,0,
+19094048,Utsab Caterer,Malda Locality,Malda,"North Indian, Chinese, Bengali, Continental",,200,0,3,0,1,3.7,11,12 Noon to 11 PM
+18984818,Pizza Wings,Hisar Locality,Hisar,"Pizza, Fast Food",Quick Bites,500,10,16,0,1,4.3,71,11 AM to 10 PM
+18699322,Earl's Secret,Marlimund,Ooty,"Continental, North Indian",Casual Dining,1200,69,132,0,0,4.0,145,"8 AM to 10 AM, 7 PM to 10 PM, 12 Noon to 3:30 PM"
+18708151,Illiterati,Mcleodganj,Dharamshala,Cafe,Café,800,129,339,0,0,4.2,252,9:30 AM to 9 PM
+19102000,Desi Food Studio,Malout Locality,Malout,"Cafe, Fast Food",Café,100,3,2,0,1,3.6,8,10 AM to 9 PM
+17272121,Northern Lights Restaurant,Barrow,Barrow,American,,0,1,1,0,0,3.2,10,"Lunch, Dinner, Late (Sun, Mon, Tue, Wed, Thu, Fri, Sat)"
+16647599,Prospector Pub,Midway,Midway,"Burger, Bar Food, Sandwich",Casual Dining,25,0,1,0,0,3.1,3,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu), Lunch, Dinner, Late (Fri-Sat)"
+19096694,Biryani Junction,Bettiah Locality,Bettiah,"Biryani, Coffee, Healthy Food, Kebab, Tea",Bhojanalya,180,0,2,0,1,0,0,11 AM to 9 PM
+19085725,TAPRI FOOD HUT,Dhar Locality,Dhar,"Chinese, Coffee, Desserts, Drinks Only, Ice Cream, Italian, Pizza, Sandwich",Café,100,6,9,0,1,3.9,17,11am – 10:30pm (Mon-Sun)
+19098260,INDHU SWEETS AND SNACKS,Namakkal Locality,Namakkal,"South Indian, Modern Indian, Beverages, Bakery",Bakery,200,1,3,0,1,0,0,10 AM to 9 PM
+19096394,Urvasi Restaurant,Palasa-Kasibugga Locality,Palasa-Kasibugga,"South Indian, Biryani",Fine Dining,250,0,0,0,0,0,0,
+18214628,The Coffee Pedaler,Gundagai,Gundagai,"Cafe Food, Coffee and Tea",Café,0,2,9,0,0,0,3,"7 AM to 3 PM (Mon-Fri), 8 AM to 2 PM (Sat-Sun)"
+19088154,Mughal Taj Biriyani,Mandya Locality,Mandya,"Biryani, North Indian",Quick Bites,300,1,4,0,1,3.9,10,12:30 PM to 11 PM
+18918689,The Hot Breads Restaurant,Bellary Locality,Bellary,"North Indian, Biryani, Fast Food",Quick Bites,400,2,1,0,1,4.3,44,
+9700726,Fergburger,Queenstown Central,Queenstown,American,Quick Bites,40,476,462,0,0,4.3,857,8:30 AM to 5 AM (Mon-Sun)
+19089526,Beyond Temptation,Chandrapur Locality,Chandrapur,Desserts,,200,1,3,0,1,0,0,12 Noon to 11 PM
+18841615,Green Punjabi Dhaba,Solan Locality,Solan,North Indian,Quick Bites,200,1,7,0,1,3.7,11,9 AM to 11 PM
+19099075,Cafe Rio,Chandrapur Locality,Chandrapur,"Pizza, Burger, Beverages",Café,200,1,3,0,1,3.3,4,11 AM to 11 PM
+19089226,Hotel Saptarishi,Bankura Locality,Bankura,"Chinese, North Indian, Bengali",Casual Dining,700,2,5,0,1,0,0,8 AM to 10:30 PM
+19054783,Bikana Sweets,Jalna Locality,Jalna,"Mithai, Fast Food",Sweet Shop,300,1,1,0,1,4.1,7,10 AM to 10 PM
+2400052,Eat On,Civil Lines,Allahabad,North Indian,Quick Bites,200,203,66,0,1,4.9,3202,"12 Noon to 10 PM (Mon, Wed-Sun), Tue Closed"
+17688150,On The Way Cafe,Pardeeville,Pardeeville,Cafe,Café,0,2,3,0,0,3.3,3,
+19055685,Hotel Madani Palace,Parbhani Locality,Parbhani,"North Indian, Modern Indian, Maharashtrian",Quick Bites,250,0,2,0,1,3.6,9,11 AM to 11 PM
+19063176,Oasis Restaurant,Wardha Locality,Wardha,"North Indian, Chinese, Biryani",Casual Dining,200,1,10,0,1,3.5,6,12:30 PM to 10 PM
+19091693,Divine Sip,Nangal Locality,Nangal,"Modern Indian, Italian, Desserts, Cafe",Café,200,0,1,0,1,3.4,1,12 Noon to 9:30 PM
+19061510,Bikanervala,Modinagar Locality,Modinagar,"Mithai, North Indian, South Indian, Chinese, Street Food, Beverages",Sweet Shop,550,1,6,0,1,4.1,6,8 AM to 11 PM
+19108834,BOONS RESTAURANT,Basti Locality,Basti,North Indian,,300,1,1,0,0,0,0,11 AM to 10 PM
+19090044,Gourvi Bakery,Bundi Locality,Bundi,Bakery,Bakery,250,1,9,0,1,3.3,5,11 AM to 11 PM
+19095998,Sri Krishna Cafe,Chitradurga Locality,Chitradurga,"South Indian, Pizza, Sandwich, Burger, Juices",Café,200,0,1,0,1,3.5,11,11 AM to 10:30 PM
+19098259,Anapurna sweets,Bettiah Locality,Bettiah,"Mithai, Mishti, Fast Food, Beverages, Chinese",Sweet Shop,100,0,4,0,1,0,0,7 AM to 10 PM
+19078138,Pizzeria Casavostra,Almancil,Algarve,"Pizza, Italian",Casual Dining,25,6,44,0,0,4.9,24,12 Noon to 11:30 PM
+19089327,New Gokul Sweets,Samastipur Locality,Samastipur,"Mithai, Desserts, Bakery",Casual Dining,100,0,1,0,1,4.0,3,7 AM to 10 PM
+18701626,Cafe Ivy,Landour,Mussoorie,Cafe,Café,1000,116,286,0,0,4.3,210,10 AM to 8 PM
+19107691,Lazeez Moments,Hansi Locality,Hansi,"Beverages, Chinese, Coffee, Continental, European, Modern Indian, North Indian",Café,300,0,1,0,0,0,0,9 AM to 10:30 PM
+3100196,Pabbas,Lalbagh,Mangalore,"Ice Cream, Desserts, Beverages, Fast Food",Dessert Parlour,250,774,1507,0,1,4.9,2007,9am – 9pm (Mon-Sun)
+19087711,Nandhini mess and family restaurant,Gadwal Locality,Gadwal,"Biryani, Healthy Food, Hyderabadi",Dhaba,300,0,6,0,1,3.3,6,8 AM to 11 PM
+8303222,La Burguesía,Providencia,Santiago,Burger,Casual Dining,23000,806,856,0,0,4.9,1317,"1 PM to 4 PM, 7 PM to 10:30 PM (Mon-Fri),1 PM to 4 PM (Sat),Closed (Sun)"
+8305378,Uncle Fletch,Bellavista,Santiago,"Burger, American, Sandwich",Casual Dining,20000,865,1653,0,0,4.7,1359,"12:30 PM to 12 Media Noche (Mon-Wed),12:30 PM to 1 AM (Thu-Sat),12:30 PM to 4 PM (Sun)"
+8302892,Baco,"Plaza Del Sol, Providencia",Santiago,French,Fine Dining,42000,349,741,0,0,4.8,685,"12:30 PM to 1 AM (Mon-Sat),12:30 PM to 12 Media Noche (Sun)"
+8302994,Le Bistrot,"Plaza Del Sol, Providencia",Santiago,French,Casual Dining,29000,414,993,0,0,4.9,720,"12:30 PM to 11:30 PM (Mon-Sat),Closed (Sun)"
+8300460,Tiramisú,Las Condes,Santiago,"Pizza, Italian",Casual Dining,28000,663,1419,0,0,4.7,1155,"1 PM to 4 PM, 7 PM to 12 Media Noche (Mon-Sun)"
+8302626,De La Ostia,Providencia,Santiago,"Bar Food, Spanish",Bar,26000,396,579,0,0,4.3,704,"11:45 AM to 11 PM (Mon-Wed),11:45 AM to 12:30 AM (Thu-Sat),Closed (Sun)"
+8300423,Mestizo,Vitacura,Santiago,"Chilean, Spanish",Fine Dining,50000,251,393,0,0,4.4,464,"12:30 PM to 3:30 PM, 7:30 PM to 12 Media Noche (Mon-Wed),12:30 PM to 4 PM, 7:30 PM to 12 Media Noche (Thu-Fri),12:30 PM to 5 PM, 7:30 PM to 12 Media Noche (Sat),12:30 PM to 4 PM, 8 PM to 10 PM (Sun)"
+8302079,Ciudad Vieja,Bellavista,Santiago,"Sandwich, Bar Food",Casual Dining,25000,463,900,0,0,4.5,818,"Closed (Mon),12:30 PM to 12:30 AM (Tue),12:30 PM to 1 AM (Wed),12:30 PM to 1:30 AM (Thu),12:30 PM to 2 AM (Fri),12:30 PM to 2:30 AM (Sat),12:30 PM to 4:30 PM (Sun)"
+8302851,Fuente Mardoqueo,Santiago Centro,Santiago,Sandwich,Casual Dining,15000,337,643,0,0,4.4,629,12 Del día to 11 PM (Mon-Sun)
+8304431,Vietnam Discovery,Recoleta,Santiago,"Vietnamese, Asian",Casual Dining,32000,368,838,0,0,4.6,642,"1 PM to 12 Midnight (Mon-Sat), 1 PM to 4 PM (Sun)"
+17987774,La Maestranza,Vitacura,Santiago,"Sandwich, Burger, Bar Food",Sandwich Shop,17000,517,1006,0,0,4.5,722,"1 PM to 4 PM, 7 PM to 11 PM (Mon-Sat),1 PM to 4 PM, 7 PM to 10 PM (Sun)"
+8301363,Fuente Alemana,Santiago Centro,Santiago,Sandwich,Sandwich Shop,13000,242,236,0,0,4.6,521,"10:30 AM to 10:30 PM (Mon-Sat),Closed (Sun)"
+8302812,Tea Connection,Providencia,Santiago,"Tea, Healthy Food, Sandwich, Desserts",Casual Dining,28000,393,971,0,0,4.4,590,"8:30 AM to 11:30 PM (Mon-Sat),12 Del día to 8 PM (Sun)"
+8301170,Pad Thai,Providencia,Santiago,Thai,Casual Dining,30000,373,539,0,0,4.4,589,"7:30 PM to 12 Media Noche (Mon),12 Del día to 2 PM, 7 PM to 12 Media Noche (Tue),12 Del día to 4 PM, 7 PM to 12 Media Noche (Wed-Fri),1 PM to 4 PM, 7 PM to 12 Media Noche (Sat),1 PM to 4 PM (Sun)"
+8301699,Tanta,"Mall Parque Arauco, Las Condes",Santiago,Peruvian,Fine Dining,37000,329,778,0,0,4.2,525,"12:30 PM to 11 PM (Mon, Tue, Wed, Thu, Sun), 12:30 PM to 12:30 AM (Fri-Sat)"
+8309181,Las Cabras,Providencia,Santiago,"Chilean, Home-made, Sandwich",Casual Dining,23000,432,687,0,0,4.3,614,"12:30 PM to 12 Media Noche (Mon-Fri),1 PM to 12 Media Noche (Sat),1 PM to 11 PM (Sun)"
+8301203,La Antojería,Providencia,Santiago,"Sandwich, Burger, Peruvian",Casual Dining,16000,388,644,0,0,4.6,542,"12:30 PM to 11 PM (Mon-Sat),Closed (Sun)"
+8301884,Buffalo Waffles,Santiago Centro,Santiago,"American, Fast Food",,8000,363,249,0,0,4.4,549,"1 PM to 9 PM (Mon-Fri),2 PM to 9 PM (Sat-Sun)"
+8309362,Vapiano,"Mall Parque Arauco, Las Condes",Santiago,"Italian, Pizza",Casual Dining,25000,390,817,0,0,4.4,535,"12 Del día to 11 PM (Mon, Tue, Wed, Sun), 12 Del día to 12 Media Noche (Thu-Sat)"
+8308411,Azotea Matilde,Providencia,Santiago,Contemporary,Fine Dining,39000,371,596,0,0,4.4,525,"Closed (Mon),6 PM to 1:30 AM (Tue-Thu),12 Del día to 1:30 AM (Fri-Sun)"
+8300829,La Gloria,Providencia,Santiago,"Sandwich, Peruvian",Sandwich Shop,15000,340,410,0,0,4.4,540,"12:30 PM to 3:30 PM, 5 PM to 11 PM (Mon-Fri),12:30 PM to 4 PM (Sat),Closed (Sun)"
+8308496,Sarita Colonia,Recoleta,Santiago,Peruvian,Casual Dining,37000,332,1131,0,0,4.8,484,"8 PM to 2 AM (Mon-Wed),8 PM to 4 AM (Thu-Sat),Closed (Sun)"
+8300910,Ciudadano,Providencia,Santiago,"Pizza, Italian, Bar Food",Casual Dining,29000,291,275,0,0,4.5,509,"12:30 PM to 1 AM (Mon-Tue),12:30 PM to 1:30 AM (Wed),12:30 PM to 2 AM (Thu),12:30 PM to 3 AM (Fri-Sat),Closed (Sun)"
+8302434,Peluquería Francesa - Boulevard Lavaud,Santiago Centro,Santiago,International,Casual Dining,35000,300,868,0,0,4.5,534,"10 AM to 12 Media Noche (Mon-Sat),10 AM to 6 PM (Sun)"
+8305610,Liguria,Providencia,Santiago,"Chilean, Bar Food",Casual Dining,30000,203,411,0,0,4.2,444,"11 AM to 1 AM (Mon-Tue),11 AM to 2 AM (Wed-Sat),Closed (Sun)"
+8300476,Zanzibar,"BordeRío, Vitacura",Santiago,"Vietnamese, Thai, Japanese",Fine Dining,40000,259,782,0,0,4.5,442,"12:30 PM to 12 Media Noche (Mon-Sat),1 PM to 5 PM (Sun)"
+8300489,P.F. Chang's,"Mall Parque Arauco, Las Condes",Santiago,"Chinese, Asian",Casual Dining,31000,298,561,0,0,4.2,468,12 Del día to 12 Media Noche (Mon-Sun)
+8308560,Chipe Libre - República Independiente del Pisco,Santiago Centro,Santiago,"Bar Food, Peruvian, Seafood",Pub,35000,293,1215,0,0,4.5,481,"12:30 PM to 1 AM (Mon-Sat),Closed (Sun)"
+8310121,Daniel's Bakery & Cafe,Ñuñoa,Santiago,"Cafe, Bakery, Pastry",Café,12000,351,1170,0,0,4.6,471,"9 AM a 10 PM (Lun-Vie),10 AM a 10 PM (Sab-Dom)"
+8302807,El Huerto,Providencia,Santiago,"Healthy Food, Desserts",Casual Dining,22000,251,518,0,0,4.5,431,"8:30 AM to 12 Media Noche (Mon-Wed),8:30 AM to 1 AM (Thu-Fri),10:30 AM to 1 AM (Sat),12:30 PM to 4:30 PM (Sun)"
+8300248,Kitcheng,Las Condes,Santiago,"Chinese, Sushi",Casual Dining,20000,302,235,0,0,4.1,454,"1 PM to 10:30 PM (Mon-Thu),1 PM to 11 PM (Fri),12 Del día to 11 PM (Sat),Closed (Sun)"
+8303446,Fuente Suiza,Ñuñoa,Santiago,"Sandwich, Empanadas",Sandwich Shop,13000,267,369,0,0,4.3,468,"11 AM to 12 Media Noche (Mon-Thu),11 AM to 1 AM (Fri),11 AM to 10:30 PM (Sat),Closed (Sun)"
+8301897,Fuente Alemana,Providencia,Santiago,Sandwich,Sandwich Shop,13000,246,444,0,0,4.6,442,"10 AM to 10 PM (Mon-Sat),Closed (Sun)"
+18234705,La Diana,Santiago Centro,Santiago,"Pizza, Italian",Casual Dining,30000,300,683,0,0,4.2,402,"1 PM to 12:30 AM (Mon-Thu),1 PM to 1:30 AM (Fri-Sat),1 PM to 11 PM (Sun)"
+8301886,Crepes & Waffles,"Costanera Center, Providencia",Santiago,"French, Cafe, Ice Cream",Café,20000,204,351,0,0,4.2,308,"12:30 PM to 9:30 PM (Mon, Tue, Wed, Thu, Sun), 12:30 PM to 10:30 PM (Fri-Sat)"
+8301636,New Horizon,Santiago Centro,Santiago,Indian,Quick Bites,12000,263,347,0,0,4.6,416,"12:45 PM to 4 PM, 6:30 PM to 10 PM (Mon-Fri),12:30 PM to 4 PM (Sat),Closed (Sun)"
+8308132,José Ramón 277,Santiago Centro,Santiago,Sandwich,Sandwich Shop,15000,309,556,0,0,4.4,461,"8 AM to 12 Media Noche (Mon-Fri),1 PM to 12 Media Noche (Sat),1 PM to 11 PM (Sun)"
+8305654,Hard Rock Café,"Costanera Center, Providencia",Santiago,American,Pub,30000,242,740,0,0,3.8,426,"12 Del día to 1 AM (Mon, Tue, Wed, Sun), 12 Del día to 2 AM (Thu-Sat)"
+8302646,Holm,Providencia,Santiago,Healthy Food,Casual Dining,12000,293,690,0,0,4.4,440,"8 AM to 10 PM (Mon-Fri),10 AM to 4 PM (Sat-Sun)"
+8309310,El Camino,Providencia,Santiago,"American, Steak, Grill",Casual Dining,28000,278,423,0,0,4.1,419,"Closed (Mon),7 PM to 12:30 AM (Tue-Thu),1 PM to 5 PM, 7 PM to 12:30 AM (Fri),12 Del día to 5 PM, 7 PM to 12:30 AM (Sat),12 Del día to 5 PM (Sun)"
+8309183,Olimpia,Providencia,Santiago,"Pizza, Italian, Healthy Food",Casual Dining,21000,301,421,0,0,4.5,413,"10 AM to 2 AM (Mon-Sat),Closed (Sun)"
+8302547,Johnny Rockets,"Costanera Center, Providencia",Santiago,"American, Burger",Casual Dining,20000,269,272,0,0,4.0,412,"12 Del día to 11 PM (Mon, Tue, Wed, Thu, Sun), 12 Del día to 12 Media Noche (Fri-Sat)"
+8300293,Quinoa,Vitacura,Santiago,"Healthy Food, Desserts",Casual Dining,25000,253,593,0,0,4.7,398,"8 AM to 11 PM (Mon-Fri),9 AM to 5 PM (Sat),Closed (Sun)"
+8307937,Maprao Thai,Providencia,Santiago,"Thai, Asian",Quick Bites,13000,306,307,0,0,4.4,418,"12:30 PM a 4:30 PM, 6 PM a 10:30 PM (Lun-Mie),12:30 PM a 4:30 PM, 6 PM a 11:30 PM (Jue-Vie),12:30 PM a 4:30 PM, 7:30 PM a 11:30 PM (Sab),12:30 PM a 4:30 PM, 7:30 PM a 10 PM (Dom)"
+8301620,Kintaro,Santiago Centro,Santiago,"Japanese, Sushi, Asian",Casual Dining,28000,208,449,0,0,4.5,353,"1 PM to 3 PM, 7:30 PM to 11 PM (Mon-Thu),1 PM to 3 PM, 8 PM to 11:30 PM (Fri),1 PM to 3 PM, 8 PM to 11 PM (Sat),Closed (Sun)"
+8308436,Barrica 94,"Patio Bellavista, Barrio Bellavista, Providencia",Santiago,"Chilean, Contemporary, Steak",Casual Dining,38000,241,1384,0,0,4.9,371,12 Del día to 2 AM (Mon-Sun)
+8303020,California Cantina,Providencia,Santiago,"American, Bar Food",Bar,30000,233,150,0,0,3.8,454,"5 PM to 1:55 AM (Mon),3 PM to 1:55 AM (Tue),3 PM to 2:55 AM (Wed-Sat),2 PM to 12 Media Noche (Sun)"
+8301908,Colmado,Santiago Centro,Santiago,"Cafe, Spanish, Sandwich, Pastry",Café,16000,250,438,0,0,4.5,381,"Cerrado (Lun),9 AM a 11 PM (Mar-Jue),9 AM a 12 Media Noche (Vie),10 AM a 12 Media Noche (Sab),10 AM a 10 PM (Dom)"
+8302113,Galindo,Bellavista,Santiago,"Chilean, Home-made",Casual Dining,18000,229,533,0,0,4.2,346,"12 Del día to 1 AM (Mon, Tue, Sun), 12 Del día to 2 AM (Wed-Thu),12 Del día to 3 AM (Fri-Sat)"
+8302166,Bocanáriz,Santiago Centro,Santiago,"Contemporary, International",Pub,32000,214,1842,0,0,4.7,366,"12 Del día to 12:30 AM (Mon-Sat),7 PM to 11 PM (Sun)"
+8303027,La Resistencia Café,"Galería Drugstore, Providencia",Santiago,"Cafe, Sandwich, Healthy Food",Café,16500,295,746,0,0,4.4,381,"9 AM to 11 PM (Mon-Fri),9 AM to 9 PM (Sat),Closed (Sun)"
+8301227,La Hacienda Gaucha,Providencia,Santiago,"Steak, Grill",Casual Dining,30000,219,490,0,0,4.3,349,"12:30 PM to 12 Media Noche (Mon-Thu),12:30 PM to 1 AM (Fri-Sat),12:30 PM to 5 PM (Sun)"
+8303916,Chicken Story,Recoleta,Santiago,Korean,Casual Dining,16000,214,446,0,0,4.5,335,"11 AM to 11 PM (Mon-Sat),Closed (Sun)"
+8306740,KY,Recoleta,Santiago,"Thai, Contemporary",Fine Dining,45000,210,229,0,0,4.4,381,"Closed (Mon, Sun), 8 PM to 2 AM (Tue-Sat)"
+18695063,Boa-Bao,Baixa,Porto,"Oriental, Thai, Malaysian, Filipino, Vietnamese, Korean, Chinese, Japanese",Casual Dining,50,275,894,1,0,4.8,725,"12 Noon to 11 PM (Mon-Thu, Sun), 12 Noon to 12:30 AM (Fri-Sat)"
+18165844,Terminal 4450,Leça da Palmeira,Porto,"Steak, BBQ",Casual Dining,70,772,2325,1,0,4.9,1746,"12:30 PM a 3 PM, 7:30 PM a 11 PM (Ter-Qui, Dom), 12:30 PM a 3 PM, 7:30 PM a 12 Midnight (Sex-Sáb), Seg Fechado"
+18640525,Eleven Lab Concept,Campo Alegre,Porto,"Vegetarian, Healthy Food, Juices",Quick Bites,25,131,424,0,0,4.5,263,"10:30 às 18:30 (Seg, Qua, Qui, Sex, Sáb, Dom), Fechado (Ter)"
+18594627,Pizzaria Luzzo,Boavista,Porto,"Italian, Pizza",Casual Dining,30,260,616,0,0,4.2,597,"12 Noon a 3 PM, 7:30 PM a 10:30 PM (Seg-Qui, Dom), 12 Noon a 3 PM, 7:30 PM a 11 PM (Sex-Sáb)"
+18660165,Subenshi,Baixa,Porto,"Japanese, Sushi",Casual Dining,60,193,556,1,0,4.8,531,"12 Noon to 4 PM, 7:30 PM to 11 PM (Mon-Thu, Sun), 12 Noon to 4 PM, 7:30 PM to 12 Midnight (Fri-Sat)"
+18464274,Zenith Brunch & Cocktail Bar,Baixa,Porto,"Healthy Food, Vegetarian, Juices, International",Quick Bites,25,513,1079,0,0,4.3,1125,09:00 a 19:00 (Seg-Dom)
+19050543,Camélia Brunch Garden,Foz,Porto,"Healthy Food, Vegetarian, Juices, Cafe, Desserts, Finger Food",Café,30,36,147,0,0,4.0,75,"Fechado (Seg),10:00 às 20:00 (Ter-Dom)"
+17834030,Casa do Carmo,Baixa,Porto,"Portuguese, Petiscos",Casual Dining,30,178,400,1,0,4.1,388,"12 Noon to 3 PM, 7 PM to 11 PM (Mon-Tue, Thu-Fri), 12 Noon to 3 PM (Wed), 7 PM to 12 Midnight (Sat), Sun Closed"
+18903237,O Consulado,Cedofeita,Porto,"Finger Food, Beverages",Quick Bites,16,106,202,1,0,4.4,229,"Fechado (Seg),10:00 a 20:00 (Ter-Qua),10:00 a 22:00 (Qui-Sáb),10:00 a 18:00 (Dom)"
+18721093,Bira dos Namorados,Baixa,Porto,"Burger, Portuguese",Casual Dining,25,128,224,1,0,4.2,290,"Fechado (Seg),12:00 a 23:00 (Ter-Qui),12:00 a 23:30 (Sex),12:30 a 23:30 (Sáb),12:30 a 23:00 (Dom)"
+17833283,Brasão Cervejaria Aliados,Baixa,Porto,"Portuguese, Petiscos",Casual Dining,30,928,1768,0,0,4.7,2056,"12:00 a 15:00, 19:00 a 23:30 (Seg-Qui),12:00 a 15:00, 19:00 a 01:30 (Sex),12:00 a 15:30, 19:00 a 01:30 (Sáb),12:00 a 15:30, 19:00 a 23:30 (Dom)"
+18629461,Il Pizzaiolo,Baixa,Porto,"Italian, Pizza",Casual Dining,30,178,310,0,0,4.2,483,12 Noon to 12 Midnight
+18613132,Flaviis Brunch & Restaurant,Baixa,Porto,"Cafe, Desserts, Healthy Food, Steak, Grill",Café,25,385,729,0,0,4.1,699,"10 AM to 6:30 PM (Tue-Sun), Mon Closed"
+18165860,Boulevard Burger House,Baixa,Porto,"American, Burger",Casual Dining,20,197,494,1,0,4.3,379,"12:00 a 15:00, 19:00 a 22:30 (Seg-Qui),12:00 a 15:00, 19:00 a 24:00 (Sex),12:00 a 24:00 (Sáb),Fechado (Dom)"
+18551935,Negra Café,Trindade,Porto,"Cafe, Desserts, Finger Food, Healthy Food",Café,6,211,467,0,0,4.5,457,"9 AM to 7 PM (Mon-Sat), 10 AM to 6 PM (Sun)"
+18464286,Brasão Cervejaria Coliseu,Baixa,Porto,"Portuguese, Petiscos",Casual Dining,30,317,483,0,0,4.3,611,"12 Noon to 3 PM, 7 PM to 11:30 PM (Mon-Thu), 12 Noon to 3 PM, 7 PM to 1:30 AM (Fri), 12 Noon to 3:30 PM, 7 PM to 1:30 AM (Sat), 12 Noon to 3:30 PM, 7 PM to 11:30 PM (Sun)"
+17836350,Cantina 32,Baixa,Porto,"Author, Petiscos, Tapas, Portuguese",Casual Dining,50,362,1061,0,0,4.4,899,"12:30 PM a 3 PM, 6:30 PM a 11 PM (Seg-Qui), 12:30 PM a 3 PM, 6:30 PM a 11:30 PM (Sex-Sáb), Dom Fechado"
+17835133,BH Foz,Foz,Porto,"Mediterranean, Sushi, Italian",Casual Dining,50,316,849,1,0,4.2,744,"12:30 to 15:30, 19:30 to 23:00 (Mon, Tue, Wed, Thu, Sun), 12:30 to 15:30, 19:30 to 24:00 (Fri-Sat)"
+18543683,Nogueira's Porto,Baixa,Porto,"BBQ, Latin American, Grill, Steak",Casual Dining,50,205,495,0,0,4.4,576,"12:30 a 15:00, 20:00 a 23:00 (Seg-Qui),12:30 a 15:00, 20:00 a 24:00 (Sex),13:00 a 15:00, 20:00 a 24:00 (Sáb),13:00 a 15:00 (Dom)"
+17836064,Café Santiago,Baixa,Porto,Portuguese,Casual Dining,25,647,521,0,0,4.3,1533,"11 AM to 11 PM (Mon-Sat), Sun Closed"
+17836438,Flow Restaurant & Bar,Cedofeita,Porto,"Mediterranean, Italian, Portuguese, Beverages",Fine Dining,70,391,1247,1,0,4.7,851,"19:30 a 23:30 (Seg-Ter),12:30 a 15:00, 19:30 a 23:30 (Qua-Qui),12:30 a 15:00, 19:30 a 24:00 (Sex),13:00 a 15:30, 19:30 a 24:00 (Sáb),Fechado (Dom)"
+17836340,Brick Clérigos,Baixa,Porto,"Finger Food, Petiscos, Tapas",Quick Bites,15,463,1430,0,0,4.9,948,"12 Noon to 4 PM, 7:30 PM to 11 PM (Tue-Fri), 1 PM to 4 PM, 8 PM to 11 PM (Sat), Mon & Sun Closed"
+19014429,Garden Porto Café,Trindade,Porto,"Finger Food, Desserts, Juices, Vegetarian, Healthy Food",Café,25,44,158,0,0,4.2,89,9 AM a 8 PM
+17834287,Yuko,Antas,Porto,"Portuguese, Petiscos",Casual Dining,30,432,557,0,0,4.5,1101,"12:30 to 14:30, 19:30 to 02:00 (Mon-Sat),Closed (Sun)"
+17834892,Los Ibéricos,Leça da Palmeira,Porto,"Tapas, Spanish",Casual Dining,50,191,703,1,0,4.4,406,"12:30 PM a 3:30 PM, 8 PM a 12 Midnight, 12 Midnight a 1 AM (Seg-Qui, Dom), 12:30 PM a 3:30 PM, 8 PM a 12 Midnight, 12 Midnight a 2 AM (Sex-Sáb)"
+18246378,DeGema - Baixa,Baixa,Porto,Burger,Casual Dining,20,685,1185,0,0,4.3,1473,12 Noon a 12 Midnight
+18744648,O Gato Comeu-te a Língua,Gaia,Porto,"Desserts, Ice Cream, Crepes, Cafe, Tapas, Italian, Healthy Food",Pastry Shop,15,104,258,0,0,4.2,262,7 AM a 12 Midnight
+17835620,Kanpai Japanese Cuisine,"Douro Marina, Afurada",Porto,"Japanese, Sushi",Fine Dining,60,254,564,0,0,4.4,582,"12:30 PM a 3 PM, 8 PM a 11 PM (Seg-Qui), 12:30 PM a 3 PM, 8 PM a 12 Midnight (Sex), 1 PM a 3:30 PM, 8 PM a 12 Midnight (Sáb), 1 PM a 3:30 PM, 8 PM a 11 PM (Dom)"
+18616205,Frankie Hot Dogs,Baixa,Porto,"Gourmet Fast Food, Street Food",Quick Bites,14,317,486,0,0,4.3,803,12 Noon a 12 Midnight
+17834058,O Diplomata,Baixa,Porto,"Desserts, Finger Food, Tapas",Dessert Parlour,15,801,1623,0,0,4.4,1496,"Fechado (Seg),10:00 a 20:00 (Ter-Sáb),10:00 a 16:00 (Dom)"
+18379108,RO,Baixa,Porto,"Author, Japanese, Ramen",Casual Dining,30,306,660,0,0,4.2,659,"12 Noon to 11 PM (Mon-Thu, Sun), 12 Noon to 12 Midnight (Fri-Sat)"
+17836464,Miss Pavlova,Baixa,Porto,"Desserts, Healthy Food, Vegetarian, Cafe",Dessert Parlour,10,642,1552,0,0,4.6,1299,11:00 a 19:00 (Seg-Dom)
+17835235,Casa Vasco,Foz,Porto,"Tapas, Burger, American, Author",Casual Dining,40,324,1001,0,0,4.1,701,"12:30 a 00:30 (Seg, Ter, Qua, Qui, Dom), 12:30 a 01:30 (Sex-Sáb)"
+18439392,Steak ’n Shake,Baixa,Porto,Burger,Casual Dining,16,287,471,0,0,3.8,637,"11:30 AM to 11 PM (Mon-Thu, Sun), 11:30 AM to 2 AM (Fri-Sat)"
+17834872,Casad'oro,Campo Alegre,Porto,"Italian, Pizza",Casual Dining,40,380,521,0,0,4.1,839,"12:30 PM to 3 PM, 7:30 PM to 11 PM"
+17835793,Bugo Art Burger,Cedofeita,Porto,Burger,Casual Dining,30,346,684,0,0,4.3,727,"12 Noon to 3 PM, 7:30 PM to 11 PM (Mon-Thu), 12 Noon to 3 PM, 7:30 PM to 12 Midnight (Fri), 12:30 PM to 4 PM, 7:30 PM to 12 Midnight (Sat), Sun Closed"
+17835373,Portarossa,Foz,Porto,"Italian, Pizza",Casual Dining,40,391,949,0,0,4.4,968,"12:30 PM to 3 PM, 7:30 PM to 12 Midnight (Mon-Thu, Sun), 12:30 PM to 3 PM, 7:30 PM to 1 AM (Fri-Sat)"
+17836016,Casa de Pasto da Palmeira,Foz,Porto,"Author, Fusion, Petiscos",Casual Dining,40,175,569,0,0,4.3,395,12 Noon to 12 Midnight
+18118306,Cruel,Baixa,Porto,"Contemporary, Author, Mediterranean",Casual Dining,40,428,1187,1,0,4.7,929,"19:30 a 23:30 (Seg-Qui),19:30 a 00:30 (Sex),12:30 a 15:00, 19:30 a 00:30 (Sáb),12:30 a 15:00, 19:30 a 23:00 (Dom)"
+17836060,Lado B,Baixa,Porto,"Finger Food, Portuguese",Snack Bar,25,360,332,0,0,4.2,769,"11 AM to 11:30 PM (Mon-Thu), 11 AM to 1:30 AM (Fri-Sat), Sun Closed"
+17835902,Venham Mais 5,Santo Ildefonso,Porto,Finger Food,Casual Dining,15,376,460,0,0,3.9,865,"12 Noon to 10 PM (Mon, Sun), 12 Noon to 10:30 PM (Tue-Thu), 12 Noon to 11 PM (Fri-Sat)"
+18550326,Mito,Baixa,Porto,"Author, Portuguese",Casual Dining,50,95,430,1,0,4.5,260,"12:30 a 15:00, 19:30 a 23:00 (Seg-Qui),12:30 a 15:30, 19:30 a 24:00 (Sex-Sáb),Fechado (Dom)"
+18420924,Bao's - Taiwanese Burger,Cedofeita,Porto,"Oriental, Taiwanese",Casual Dining,25,222,540,1,0,4.0,526,"12 Noon a 11 PM (Seg-Qui, Dom), 12 Noon a 12 Midnight (Sex-Sáb)"
+16686233,The Fat Duck,Windsor and Maidenhead,South East England,"European, British, Fusion",Quick Bites,0,87,183,0,0,4.9,218,"Closed (Mon, Sun), 12 Noon to 2 PM, 7 PM to 9 PM (Tue-Sat)"
+16686235,The Hinds Head,Windsor and Maidenhead,South East England,"Bar Food, British",,20,54,93,0,0,4.9,95,"12 Noon to 11 PM (Mon-Sat),12 Noon to 7 PM (Sun)"
+6107493,Tayyabs,"Fieldgate Street, Whitechapel",London,"North Indian, Indian, Pakistani, Curry",Casual Dining,40,328,472,0,0,4.6,760,12 Noon to 11:30 PM (Mon-Sun)
+6114338,Flat Iron,"Beak Street, Soho",London,Steak,Casual Dining,35,207,1589,0,0,4.9,419,"12 Noon to 11 PM (Mon-Wed),12 Noon to 11:30 PM (Thu),12 Noon to 12 Midnight (Fri),11:45 AM to 12 Midnight (Sat),12 Noon to 10:30 PM (Sun)"
+6117859,Shake Shack,"Tavistock Court, Covent Garden",London,"American, Burger",Casual Dining,30,287,262,0,0,4.5,545,"11 AM to 11 PM (Mon-Sat),11 AM to 10:30 PM (Sun)"
+6107170,The Wolseley,"Piccadilly, Mayfair",London,"European, British, French",Casual Dining,55,188,241,0,0,4.6,508,"7am – 11pm (Mon-Fri),8am – 11pm (Sat-Sun)"
+6113857,Sketch Gallery,"Conduit Street, Mayfair",London,"British, Contemporary",Fine Dining,100,104,416,1,0,4.9,213,"11:30 AM to 2 AM (Mon-Sat), 11:30 AM to 12:30 AM (Sun)"
+6103922,Dishoom,"Boundary Street, Shoreditch",London,"Indian, Cafe, Curry",Casual Dining,55,197,986,0,0,4.9,340,"8 AM to 11 PM (Mon-Wed),8 AM to 12 Midnight (Thu-Fri),9 AM to 12 Midnight (Sat),9 AM to 11 PM (Sun)"
+6104220,Roti Chai,"Portman Mews South, Marble Arch",London,"Indian, Street Food",Casual Dining,45,228,550,1,0,4.6,369,"12 Noon to 10:30 PM (Mon-Sat),12:30 PM to 9 PM (Sun)"
+6113835,Dinner by Heston Blumenthal,"Knightsbridge, Knightsbridge",London,British,Casual Dining,130,302,449,0,0,4.9,596,"12 Noon to 2 PM, 6 PM to 10:15 PM (Mon-Fri), 12 Noon to 2:30 PM, 6:30 PM to 10:30 PM (Sat-Sun)"
+6102866,Hakkasan,Mayfair,London,"Chinese, Dim Sum, Cantonese",Fine Dining,120,203,2111,1,0,4.9,428,"12 Noon to 12 Midnight (Mon-Wed), 12 Noon to 12:30 AM (Thu-Fri), 12 Noon to 12:45 AM (Sat), 12 Noon to 11:45 PM (Sun)"
+6103211,Dishoom,"Upper St Martin's Lane, Covent Garden",London,"Indian, North Indian, Curry, Cafe",Café,35,533,1473,0,0,4.9,1031,"8 AM to 11 PM (Mon-Thu),8 AM to 12 Midnight (Fri),9 AM to 12 Midnight (Sat),9 AM to 11 PM (Sun)"
+6113850,Princi,"Wardour Street, Soho",London,Italian,Casual Dining,30,158,1679,0,0,4.6,403,"8 AM to 12 Midnight (Mon-Sat),8:30 AM to 10 PM (Sun)"
+6105938,Patty & Bun,"James Street, Marylebone",London,"Burger, British",Casual Dining,30,253,238,0,0,4.8,497,"12 Noon to 11 PM (Mon-Sat),12 Noon to 10 PM (Sun)"
+6125672,Vapiano,"Wardour Street, Soho",London,Italian,Casual Dining,35,84,167,0,0,4.8,155,"11 AM to 11 PM (Mon-Thu),11 AM to 12 Midnight (Fri-Sat),12 Noon to 11 PM (Sun)"
+6124820,Dishoom,"Stable Street, King's Cross",London,"Indian, North Indian, Curry",Casual Dining,45,155,334,0,0,4.9,276,"8 AM to 11 PM (Mon-Wed),8 AM to 12 Midnight (Thu-Fri),9 AM to 12 Midnight (Sat),9 AM to 11 PM (Sun)"
+6100054,Masala Zone,Covent Garden,London,"Indian, Curry",Casual Dining,30,184,567,0,0,4.5,316,"12 Noon to 11 PM (Mon-Sat),12:30 PM to 10:30 PM (Sun)"
+6103902,Yauatcha,"Broadwick Street, Soho",London,"Chinese, Dim Sum, Cantonese",Fine Dining,90,303,2223,1,0,4.8,804,"12 Noon to 10 PM (Mon, Tue, Wed, Thu, Sun), 12 Noon to 10:30 PM (Fri-Sat)"
+6113973,Bone Daddies,"Walker's Court, Soho",London,"Ramen, Japanese",Casual Dining,40,197,192,0,0,4.8,423,"12 Noon to 10 PM (Mon),12 Noon to 11 PM (Tue-Wed),12 Noon to 11:30 PM (Thu-Sat),12 Noon to 9:30 PM (Sun)"
+6116563,Chotto Matte,"Frith Street, Soho",London,"Japanese, Peruvian, Sushi",Casual Dining,70,212,1399,0,0,4.9,364,"12 Noon to 11:30 PM (Mon-Wed, Sun), 12 Noon to 12 Midnight (Thu), 12 Noon to 12:30 AM (Fri-Sat)"
+6116177,Brasserie Zedel,"Glasshouse Street, Soho",London,"French, American",Brasserie,50,133,515,0,0,4.6,266,"11:30 AM to 12 Midnight (Mon-Sat),11:30 AM to 11 PM (Sun)"
+6114223,Zuma,"Raphael Street, Knightsbridge",London,"Japanese, Sushi",Fine Dining,130,136,131,0,0,4.6,435,"12 Noon to 3 PM, 6 PM to 11 PM (Mon-Fri),12:30 PM to 3:30 PM, 6 PM to 11 PM (Sat),12:30 PM to 3:30 PM, 6 PM to 10:30 PM (Sun)"
+6103868,Nobu,Mayfair,London,"Japanese, Sushi",Fine Dining,100,102,943,1,0,4.6,265,"12 Noon to 3 PM, 6 PM to 11:45 PM (Mon-Wed),12 Noon to 3 PM, 6 PM to 12:45 AM (Thu-Fri),12:30 PM to 3:30 PM, 6 PM to 12:45 AM (Sat),6 PM to 10:30 PM (Sun)"
+6113700,The Ledbury,Notting Hill,London,"British, European, French",Fine Dining,250,216,2716,0,0,4.9,460,"6:30 PM to 9:45 PM (Mon-Tue), 12 Noon to 2 PM, 6:30 PM to 9:45 PM (Wed-Sun)"
+6116783,Aqua Shard,London Bridge,London,British,Fine Dining,90,147,225,1,0,4.6,239,"7 AM to 12 Midnight (Mon-Fri),9 AM to 12 Midnight (Sat-Sun)"
+6102615,The Breakfast Club,"D'arblay Street, Soho",London,"American, Burger",Casual Dining,40,167,745,0,0,4.7,311,"7:30 AM to 10 PM (Mon-Fri), 8 AM to 10 PM (Sat), 8 AM to 7 PM (Sun)"
+6117406,Five Guys,"Long Acre, Covent Garden",London,"American, Burger",Casual Dining,15,228,141,0,0,4.3,373,"11 AM to 11 PM (Mon-Wed, Sun), 11 AM to 12 Midnight (Thu-Sat)"
+6102977,Benares,"Berkeley Square, Mayfair",London,Indian,Fine Dining,90,86,577,1,0,4.4,201,"12 Noon to 2:30 PM, 5:30 PM to 11 PM (Mon-Sat),6 PM to 10 PM (Sun)"
+6102622,Burger & Lobster,"Dean Street, Soho",London,"American, Seafood, Burger",Casual Dining,45,230,4464,0,0,4.8,454,"12 Noon to 10:30 PM (Mon-Wed),12 Noon to 11 PM (Thu-Sat),12 Noon to 10 PM (Sun)"
+6103998,Barrafina,"Frith Street, Soho",London,"Spanish, Tapas, Healthy Food",Casual Dining,60,171,500,0,0,4.7,421,"12 Noon to 3 PM, 5 PM to 11 PM (Mon-Sat), 1 PM to 3:30 PM, 5:30 PM to 10 PM (Sun)"
+6104639,Bob Bob Ricard,Soho,London,"British, Russian",Fine Dining,100,208,1074,0,0,4.7,387,"12:30 PM to 3 PM, 6 PM to 12 Midnight (Mon-Wed), 12:30 PM to 3 PM, 5:30 PM to 12 Midnight (Thu, Sun), 12:30 PM to 3 PM, 5:30 PM to 1 AM (Fri-Sat)"
+6100354,Busaba Eathai,"Wardour Street, Soho",London,"Thai, Curry",Casual Dining,35,149,747,0,0,4.5,498,"12 Noon to 11 PM (Mon-Thu),12 Noon to 11:30 PM (Fri-Sat),12 Noon to 10:30 PM (Sun)"
+18164345,Hoppers,"Frith Street, Soho",London,"Sri Lankan, Indian",Casual Dining,45,101,329,0,0,4.9,155,"12 Noon to 2:30 PM, 5:30 PM to 10:30 PM (Mon-Thu),12 Noon to 10:30 PM (Fri-Sat),Closed (Sun)"
+6103683,Bocca Di Lupo,"Archer Street, Soho",London,Italian,Casual Dining,45,176,586,0,0,4.5,432,"12:15 PM to 3 PM, 5:15 PM to 12 Midnight (Mon-Sat),12:15 PM to 3:15 PM, 5:15 PM to 11 PM (Sun)"
+6102856,Hakkasan,Fitzrovia,London,"Chinese, Dim Sum",Fine Dining,120,156,239,1,0,4.6,446,"12 Noon to 3 PM, 5:30 PM to 11 PM (Mon-Wed),12 Noon to 3 PM, 5:30 PM to 12 Midnight (Thu-Fri),12 Noon to 4 PM, 5:30 PM to 12 Midnight (Sat),12 Noon to 11 PM (Sun)"
+6101881,Jamie's Italian,"Upper St Martin's Lane, Covent Garden",London,Italian,Casual Dining,50,151,1143,0,0,4.5,278,"12 Noon to 10:30 PM (Mon, Tue, Wed, Thu, Sun), 12 Noon to 11 PM (Fri-Sat)"
+6103255,Roka,"Charlotte Street, Fitzrovia",London,"Japanese, Sushi",Casual Dining,60,130,1356,0,0,4.6,313,"12 Noon to 3:30 PM, 5:30 PM to 11:30 PM (Mon-Fri),12:30 PM to 4 PM, 5:30 PM to 11:30 PM (Sat),12:30 PM to 4 PM, 5:30 PM to 10:30 PM (Sun)"
+6122088,Chiltern Firehouse,"Chiltern Street, Marylebone",London,"American, Portuguese, European",Fine Dining,90,118,1184,0,0,4.5,186,"7 AM to 10:30 PM (Mon-Fri),9 AM to 10:30 PM (Sat-Sun)"
+6103924,Inamo - Soho,"Wardour Street, Soho",London,"Japanese, Sushi, Asian",Casual Dining,55,118,276,1,0,4.1,235,"5 PM to 11:30 PM (Mon-Wed), 12 Noon to 3 PM, 5 PM to 12 Midnight (Thu-Fri), 12 Noon to 12 Midnight (Sat), 12 Noon to 10:30 PM (Sun)"
+6100396,Wahaca,"Chandos Place, Covent Garden",London,Mexican,Casual Dining,35,114,368,0,0,4.4,468,"12 Noon to 11 PM (Mon-Sat),12 Noon to 10:30 PM (Sun)"
+6118140,Gymkhana,"Albemarle Street, Mayfair",London,"Indian, Pakistani, Curry",Fine Dining,80,118,534,0,0,4.8,243,"12 Noon to 2:30 PM, 5:30 PM to 10:15 PM (Mon-Sat),Closed (Sun)"
+6116772,Homeslice,"Neal's Yard, Covent Garden",London,Pizza,Casual Dining,30,99,289,0,0,4.8,208,"12 Noon to 11 PM (Mon-Sat),12 Noon to 10 PM (Sun)"
+6116786,Hutong,London Bridge,London,"Chinese, Dim Sum",Fine Dining,90,134,316,1,0,4.6,196,12 Noon to 12 Midnight (Mon-Sun)
+6102616,Burger & Lobster,"Clarges Street, Mayfair",London,"American, Seafood, Burger",Casual Dining,45,210,3167,0,0,4.8,454,"12 Noon to 10:30 PM (Mon-Sat),12 Noon to 5:30 PM (Sun)"
+6104649,Honest Burgers,"Meard Street, Soho",London,"Burger, Fast Food",Fast Food,30,196,715,0,0,4.7,372,"11:30 AM to 11 PM (Mon-Sat),11:30 AM to 10 PM (Sun)"
+6102703,Ottolenghi,"Upper Street, Islington",London,"Mediterranean, Deli, Bakery, Healthy Food",Casual Dining,50,122,1591,0,0,4.6,302,"8 AM to 10:30 PM (Mon-Sat),9 AM to 7 PM (Sun)"
+6101462,Bodean's,"Poland Street, Soho",London,"American, Grill",Casual Dining,40,128,960,0,0,4.4,337,"12 Noon to 11 PM (Mon-Thu),11:30 AM to 11 PM (Fri-Sat),11:30 AM to 10:30 PM (Sun)"
+6113680,Restaurant Gordon Ramsay,Chelsea,London,French,Fine Dining,230,130,739,0,0,4.8,266,"12 Noon to 2:15 PM, 6:30 PM to 9:45 PM (Tue-Sat), Mon & Sun Closed"
+18010417,Dishoom,"Kingly Street, Soho",London,"Indian, Curry",Casual Dining,35,90,286,0,0,4.9,179,"8 AM to 11 PM (Mon-Wed),8 AM to 12 Midnight (Thu-Fri),9 AM to 12 Midnight (Sat),9 AM to 11 PM (Sun)"
+6117857,Flesh & Buns,"Shorts Gardens, Covent Garden",London,"Sushi, Japanese, Korean",Casual Dining,60,154,354,0,0,4.7,271,"12 Noon to 3 PM, 5 PM to 10 PM (Mon-Tue),12 Noon to 3 PM, 5 PM to 11 PM (Wed-Fri),12 Noon to 11 PM (Sat),12 Noon to 9:30 PM (Sun)"
+6102914,Hawksmoor Seven Dials,"Langley Street, Covent Garden",London,"Steak, British",Fine Dining,75,159,852,1,0,4.7,349,"12 Noon to 3 PM, 5 PM to 10:30 PM (Mon-Thu),12 Noon to 3 PM, 5 PM to 11 PM (Fri-Sat),12 Noon to 9:30 PM (Sun)"
+6127163,Bao,"Lexington Street, Soho",London,"Taiwanese, Street Food",Quick Bites,25,152,544,0,0,4.9,255,"12 Noon to 3 PM, 5:30 PM to 10 PM (Mon-Wed), 12 Noon to 3 PM, 5:30 PM to 10:30 PM (Thu), 12 Noon to 10:30 PM (Fri), 12 Noon to 10 PM (Sat), 12 Noon to 5 PM (Sun)"
+6114773,Balthazar,"Russell Street, Covent Garden",London,French,Casual Dining,55,167,215,0,0,4.5,280,"7:30 AM to 11:30 PM (Mon-Thu), 7:30 AM to 12 Midnight (Fri), 9 AM to 12 Midnight (Sat), 9 AM to 11 PM (Sun)"
+6103551,The Kati Roll Company,"Poland Street, Soho",London,Indian,Quick Bites,15,195,122,0,0,4.7,318,"11 AM to 11:30 PM (Mon-Thu),11 AM to 12:30 AM (Fri),12 Noon to 12:30 AM (Sat),12 Noon to 11:30 PM (Sun)"
+6102919,Hawksmoor Spitalfields,"Commercial Street, Brick Lane",London,"Steak, British",Casual Dining,90,151,787,1,0,4.6,331,"12 Noon to 2:30 PM, 5 PM to 11 PM (Mon-Thu),12 Noon to 2:30 PM, 5 PM to 12 Midnight (Fri-Sat),12 Noon to 9 PM (Sun)"
+6107199,Chin Chin Labs,"Camden Lock Place, Camden Town",London,"Ice Cream, Desserts",Dessert Parlour,15,134,406,0,0,4.9,218,12 Noon to 7 PM (Mon-Sun)
+6114541,COYA,"Piccadilly, Mayfair",London,"Latin American, Peruvian",Fine Dining,90,111,601,1,0,4.7,196,"12 Noon to 2:30 PM, 6 PM to 10:30 PM (Mon, Tue, Wed, Sun), 12 Noon to 2:30 PM, 6 PM to 11 PM (Thu-Sat)"
+6100518,Vapiano,"Margaret Street, Marylebone",London,Italian,Casual Dining,35,115,85,0,0,4.5,222,"12 Noon to 11 PM (Mon-Thu),11 AM to 12 Midnight (Fri-Sat),11 AM to 11 PM (Sun)"
+6106690,The Big Easy,Chelsea,London,"American, Seafood",Diner,50,127,103,0,0,4.5,271,"12 Noon to 11 PM (Mon-Thu),12 Noon to 12 Midnight (Fri),11 AM to 10:30 PM (Sat-Sun)"
+6114013,The Riding House Cafe,Fitzrovia,London,"British, Cafe",Café,50,154,1737,0,0,4.4,310,"7:30 AM to 11:30 PM (Mon-Thu),7:30 AM to 12 Midnight (Fri),9 AM to 12 Midnight (Sat),9 AM to 10:30 PM (Sun)"
+6113807,Pollen Street Social,Mayfair,London,British,Fine Dining,120,129,1319,0,0,4.6,242,"12 Noon to 2:30 PM, 6 PM to 10:30 PM (Mon-Sat),Closed (Sun)"
+6103891,Mildreds,"Lexington Street, Soho",London,"Mediterranean, Asian, Healthy Food",Casual Dining,45,121,166,0,0,4.5,287,"12 Noon to 11 PM (Mon-Fri), 11:30 AM to 11 PM (Sat), 12 Noon to 10 PM (Sun)"
+6104852,Beigel Bake,Brick Lane,London,Bakery,Bakery,10,114,52,0,0,4.6,283,24 Hours (Mon-Sun)
+6119289,Pizza Union,Spitalfields,London,"Pizza, Italian",Casual Dining,15,93,148,0,0,4.7,160,11 AM to 11 PM (Mon-Sun)
+6117416,The Big Easy,"Maiden Lane, Covent Garden",London,"American, Seafood",Casual Dining,50,124,220,0,0,4.2,207,"12 Noon to 12 Midnight (Mon-Wed),12 Noon to 1 AM (Thu-Sat),12 Noon to 11 PM (Sun)"
+6113833,L'Atelier de Joel Robuchon,Covent Garden,London,French,Fine Dining,250,98,958,0,0,4.4,245,"12 Noon to 3 PM, 5:30 PM to 12 Midnight (Mon-Sat),12 Noon to 1 PM (Sun)"
+6114039,Granger & Co.,"Westbourne Grove, Notting Hill",London,"Australian, Healthy Food",Casual Dining,45,125,1511,0,0,4.4,213,"7 AM to 11 PM (Mon-Sat),8 AM to 10 PM (Sun)"
+6113527,The Cinnamon Club,"Great Smith Street, Westminster",London,"Indian, Curry",Fine Dining,80,107,241,1,0,4.4,222,"7:30 AM to 10 AM, 12 Noon to 2:45 PM, 6 PM to 10:45 PM (Mon-Fri), 12 Noon to 2:45 PM, 6 PM to 10:45 PM (Sat-Sun)"
+6116534,Caravan,King's Cross,London,"Cafe, European",Café,35,113,1086,0,0,4.5,213,"8 AM to 10:30 PM (Mon-Fri),10 AM to 12 Midnight (Sat),10 AM to 4 PM (Sun)"
+6103676,Nopi,"Warwick Street, Soho",London,Mediterranean,Casual Dining,65,68,934,0,0,4.5,111,"8 AM to 11:30 AM, 12 Noon to 3 PM, 5:30 PM to 10:30 PM (Mon-Thu), 12 Noon to 5:30 PM (Fri), 10 AM to 11:30 AM, 12 Noon to 10:30 PM (Sat), 10 AM to 11:30 AM, 12 Noon to 4 PM (Sun)"
+6102623,The Breakfast Club,"Artillery Lane, Spitalfields",London,"American, Burger",Casual Dining,40,108,191,0,0,4.6,204,"7:30 AM to 11 PM (Mon-Wed),7:30 AM to 12 Midnight (Thu-Fri),8 AM to 12 Midnight (Sat),8 AM to 10:30 PM (Sun)"
+6117861,Sticks 'n' Sushi,"Henrietta Street, Covent Garden",London,"Japanese, Sushi",Casual Dining,65,93,1013,0,0,4.8,172,"12 Noon to 11 PM (Mon-Sat),12 Noon to 10 PM (Sun)"
+6107279,Punjab,"Neal Street, Covent Garden",London,"Indian, North Indian, Curry",Casual Dining,40,92,147,0,0,4.4,203,"12 Noon to 11 PM (Mon-Sat),12 Noon to 10 PM (Sun)"
+6103560,Lima,"Rathbone Place, Fitzrovia",London,"Peruvian, Latin American",Casual Dining,75,125,264,0,0,4.6,178,"5:30 PM to 10:45 PM (Mon),12 Noon to 2:30 PM, 5:30 PM to 10:45 PM (Tue-Fri),11 AM to 2:30 PM, 5:30 PM to 10:45 PM (Sat),11 AM to 2:30 PM, 5 PM to 9 PM (Sun)"
+6114148,OXO Tower Restaurant,"Barge House Street, South Bank",London,"Modern European, British",Fine Dining,100,107,971,1,0,4.4,277,"12noon – 2:30pm, 6pm – 10pm (Mon-Wed),12noon – 2:30pm, 6pm – 11pm (Thu-Fri),12noon – 2:30pm, 5:30pm – 11pm (Sat),12noon – 3pm, 6:30pm – 10pm (Sun)"
+6103053,Novikov - Asian Room,"Mayfair Place, Mayfair",London,Asian,Casual Dining,70,94,233,0,0,4.7,151,"12 Noon to 3:30 PM, 5:30 PM to 12 Midnight (Mon-Fri),12 Noon to 12 Midnight (Sat-Sun)"
+6122355,The Palomar,"Rupert Street, Chinatown",London,"Middle Eastern, Arabian, Moroccan",Casual Dining,55,106,538,0,0,4.8,156,"12 Noon to 2:30 PM, 5:30 PM to 11 PM (Mon-Sat), 12:30 PM to 3:30 PM, 6 PM to 9 PM (Sun)"
+6115017,Buddha Bar,"Knightsbridge, Knightsbridge",London,Asian,Casual Dining,70,83,159,0,0,4.3,133,"5 PM to 12 Midnight (Mon-Fri),12 Noon to 12 Midnight (Sat),11 AM to 11:30 PM (Sun)"
+6104265,Amaya,"Motcomb Street, Knightsbridge",London,"Indian, North Indian, Curry",Fine Dining,70,75,189,0,0,4.4,175,"12 Noon to 2:45 PM, 6 PM to 10:45 PM (Mon-Sat), 12:45 PM to 2:45 PM, 6 PM to 10:15 PM (Sun)"
+6103275,Polpo,"Beak Street, Soho",London,Italian,Casual Dining,40,140,456,0,0,4.3,287,"11:30 AM to 11 PM (Mon-Fri),10 AM to 11 PM (Sat),10 AM to 10 PM (Sun)"
+6104569,St John Bar and Restaurant,"Saint John Street, Farringdon",London,British,Casual Dining,90,107,132,0,0,4.6,290,"11 AM to 11 PM (Mon-Fri),6 PM to 11 PM (Sat),12:30 PM to 5 PM (Sun)"
+6105810,Franco Manca,"Market Row, Brixton",London,Pizza,Casual Dining,25,100,62,0,0,4.6,301,"12 Noon to 5 PM (Mon),12 Noon to 11 PM (Tue-Fri),11:30 AM to 11 PM (Sat),11:30 AM to 10:30 PM (Sun)"
+6100578,Ping Pong Soho,"Great Marlborough Street, Soho",London,"Chinese, Dim Sum",Casual Dining,30,86,131,0,0,4.2,219,"11 AM to 12 Midnight (Mon-Fri), 12 Noon to 12 Midnight (Sat), 12 Noon to 10:30 PM (Sun)"
+6103550,Yalla Yalla,"Brewer Street, Soho",London,"Middle Eastern, Lebanese, Street Food",Casual Dining,30,131,188,0,0,4.5,276,"10 AM to 11 PM (Mon-Sat),10 AM to 10 PM (Sun)"
+6103850,Galvin at Windows - London Hilton on Park Lane Hotel,Mayfair,London,French,Fine Dining,160,116,470,1,0,4.5,202,"11 AM to 1 AM (Mon-Wed),11 AM to 2 AM (Thu-Fri),3 PM to 2 AM (Sat),11 AM to 10:30 PM (Sun)"
+6106521,Muriel's Kitchen,"Pelham Street, South Kensington",London,"British, Cafe",Café,40,96,866,0,0,4.2,152,"8 AM to 11 PM (Mon-Sat),9 AM to 10 PM (Sun)"
+6103800,Gaylord Restaurant,"Mortimer Street, Fitzrovia",London,"Indian, North Indian, Curry",Casual Dining,60,92,271,1,0,4.5,146,"12 Noon to 2:45 PM, 6 PM to 10:45 PM (Mon-Sat),12 Noon to 2:45 PM (Sun)"
+6113672,Spuntino,"Rupert Street, Soho",London,"American, European",Diner,50,119,686,0,0,4.5,253,"11:30 AM to 12 Midnight (Mon-Wed),11:30 AM to 1 AM (Thu-Sat),11:30 AM to 11 PM (Sun)"
+6101862,Belgo Centraal,"Earlham Street, Covent Garden",London,Belgian,Casual Dining,50,104,619,1,0,4.2,255,"12 Noon to 11 PM (Mon-Thu), 12 Noon to 11:30 PM (Fri-Sat), 12 Noon to 10:30 PM (Sun)"
+6113894,Barbecoa Piccadilly,City of London,London,"Steak, British",Casual Dining,70,99,605,0,0,4.5,195,"8 AM to 11 PM (Mon-Thu), 8 AM to 12 Midnight (Fri-Sat), 8 AM to 10:30 PM (Sun)"
+6113887,Sketch Lecture Room,"Conduit Street, Mayfair",London,French,Fine Dining,125,67,222,1,0,4.7,131,"7 PM to 10 PM (Tue-Thu), 12 Noon to 2 PM, 7 PM to 10 PM (Fri-Sat), Mon & Sun Closed"
+6114650,Sake No Hana,"Saint James's Street, Mayfair",London,"Japanese, Sushi",Fine Dining,70,86,711,1,0,4.5,144,"12 Noon to 3 PM, 6 PM to 11 PM (Mon-Thu),12 Noon to 3 PM, 6 PM to 11:30 PM (Fri),12 Noon to 4 PM, 6 PM to 11:45 PM (Sat),Closed (Sun)"
+6103594,Roka,"Canada Square, Canary Wharf",London,"Japanese, Sushi",Casual Dining,60,78,211,0,0,4.6,161,"11:45 AM to 3 PM, 5:30 PM to 11 PM (Mon-Fri),11:30 AM to 4 PM, 5:30 PM to 11 PM (Sat),11:30 AM to 8:30 PM (Sun)"
+6104609,Pizza East,Shoreditch,London,Pizza,Casual Dining,35,117,94,0,0,4.5,243,"12 Noon to 12 Midnight (Mon-Wed),12 Noon to 1 AM (Thu),12 Noon to 2 AM (Fri),10 AM to 2 AM (Sat),10 AM to 12 Midnight (Sun)"
+6107476,MEATmarket,"Tavistock Court, Covent Garden",London,"Fast Food, Burger",Casual Dining,30,128,113,0,0,4.4,239,"11:30 AM to 11 PM (Mon-Sat),11:30 AM to 10 PM (Sun)"
+6120837,Bibimbap,"Greek Street, Soho",London,Korean,Quick Bites,25,78,73,0,0,4.4,164,"12 Noon to 3 PM, 6 PM to 11 PM (Mon-Fri),12 Noon to 11 PM (Sat-Sun)"
+6100386,Busaba Eathai,Marylebone,London,"Thai, Curry",Casual Dining,35,93,101,1,0,4.4,206,"12 Noon to 11 PM (Mon-Thu),12 Noon to 11:30 PM (Fri-Sat),12 Noon to 10 PM (Sun)"
+6104578,Rasa Sayang,Chinatown,London,"Malaysian, Singaporean, Curry",Casual Dining,30,119,141,0,0,4.3,197,"12 Noon to 11 PM (Mon-Thu),12 Noon to 12 Midnight (Fri-Sat),11:30 AM to 9:30 PM (Sun)"
+6104650,Ceviche,"Frith Street, Soho",London,"Peruvian, Latin American, Healthy Food",Casual Dining,30,108,243,1,0,4.5,216,"5pm – 11pm (Mon-Tue),12noon – 3pm, 5pm – 11pm (Wed-Thu),12noon – 11:30pm (Fri-Sat),12noon – 10pm (Sun)"
+6100037,Masala Zone,"Marshall Street, Soho",London,"Indian, Curry",Casual Dining,30,64,139,0,0,4.4,131,"12 Noon to 11 PM (Mon-Fri),12:30 PM to 11 PM (Sat),12:30 PM to 10:30 PM (Sun)"
+6114829,Duck & Waffle,"Bishopsgate, City Of London",London,British,Casual Dining,55,450,1147,0,0,4.9,843,24 Hours (Mon-Sun)
+17836125,Tascö,Baixa,Porto,"Petiscos, Portuguese",Casual Dining,30,476,848,0,0,4.3,974,"12 Noon a 12 Midnight, 12 Midnight a 1 AM"
+17835036,Capa Negra II,Campo Alegre,Porto,"Portuguese, Finger Food",Casual Dining,30,466,427,0,0,3.9,1079,"12:00 to 02:00 (Mon-Sat),12:00 to 24:00 (Sun)"
+18551909,Mundo,Baixa,Porto,"International, Beverages",Casual Dining,30,128,423,0,0,4.5,333,"19:00 a 24:00 (Seg-Qui),19:00 a 02:00 (Sex),12:00 a 15:30, 19:00 a 02:00 (Sáb),13:00 a 24:00 (Dom)"
+17833953,Kyoto na Baixa,Baixa,Porto,"Japanese, Sushi",Casual Dining,40,248,423,1,0,4.2,593,"12:00 a 15:00, 19:30 a 23:00 (Seg-Qui),12:00 a 15:00, 19:30 a 24:00 (Sex),12:30 a 15:30, 19:30 a 24:00 (Sáb),Fechado (Dom)"
+18341763,Puro 4050,Baixa,Porto,"Italian, Mediterranean",Fine Dining,50,175,505,0,0,4.6,434,"12:30 PM a 3 PM, 6:30 PM a 11 PM (Seg-Qui), 12:30 PM a 3 PM, 6:30 PM a 11:30 PM (Sex-Sáb), Dom Fechado"
+17834005,Reitoria,Baixa,Porto,"Steak, Tapas, Italian",Fine Dining,80,254,623,0,0,4.4,582,"12:30 PM to 11 PM (Mon-Thu, Sun), 12:30 PM to 12 Midnight (Fri-Sat)"
+18688240,Boteco Mexicano,Baixa,Porto,"Brazilian, Mexican",Quick Bites,30,98,239,0,0,3.8,249,"12:30 a 15:00, 19:30 a 23:30 (Seg-Qui),12:30 a 15:00, 19:30 a 00:30 (Sex),12:30 a 00:30 (Sáb),12:30 a 23:30 (Dom)"
+17832872,Peebz,Foz,Porto,Burger,Casual Dining,23,372,835,1,0,4.2,736,"12 Noon to 3 PM, 7 PM to 10:45 PM (Tue-Fri), 12:30 PM to 3:30 PM, 7 PM to 10:45 PM (Sat), 12:30 PM to 3:30 PM (Sun), Mon Closed"
+18598051,MISTU,Miragaia,Porto,"International, Fusion, Portuguese",Casual Dining,70,98,368,0,0,4.6,244,"19:30 a 23:30 (Seg-Qui),19:30 a 24:00 (Sex),12:30 a 15:30, 19:30 a 24:00 (Sáb),12:30 a 15:30, 19:30 a 23:30 (Dom)"
+17833519,Moustache,Baixa,Porto,"Cafe, Finger Food, Portuguese",Café,16,339,525,0,0,4.1,801,"9 AM to 7 PM (Mon, Wed-Sun), Tue Closed"
+17835134,Ichiban,Foz,Porto,"Japanese, Sushi",Fine Dining,60,168,480,0,0,4.5,390,"12:30 PM to 3 PM, 7:30 PM to 11 PM (Tue-Thu), 12:30 PM to 3 PM, 7:30 PM to 12 Midnight (Fri-Sat), 12:30 PM to 4 PM (Sun), Mon Closed"
+17834845,Sushiaria,Leça da Palmeira,Porto,Sushi,Casual Dining,45,251,604,1,0,4.4,642,"Fechado (Seg),12:30 a 15:00, 19:30 a 23:00 (Ter-Dom)"
+17836523,Lareira,Baixa,Porto,"Petiscos, Portuguese",Casual Dining,20,219,474,0,0,4.3,480,"12:00 to 23:00 (Mon-Thu),12:00 to 01:00 (Fri-Sat),Closed (Sun)"
+17834587,Pizzeria Antonio Mezzero,Matosinhos Centro,Porto,"Italian, Pizza",Casual Dining,40,246,340,0,0,4.4,566,"12 Noon to 2:30 PM, 7 PM to 10:30 PM (Tue-Sat), 7 PM to 10:30 PM (Sun), Mon Closed"
+18344217,Bocca,Foz,Porto,"Mediterranean, Italian, Pizza",Casual Dining,40,129,258,1,0,4.0,237,12:30 PM a 11 PM
+17835328,Casinha Boutique Café,Boavista,Porto,"Desserts, Finger Food, Cafe",Café,13,427,855,0,0,3.8,966,"9 AM to 8 PM (Mon-Tue), 9 AM to 10 PM (Wed-Thu), 9 AM to 12 Midnight (Fri-Sat), 10 AM to 10 PM (Sun)"
+17834632,Mr. Binho Sushi,Matosinhos Centro,Porto,"Japanese, Sushi, Fusion",Casual Dining,45,215,444,0,0,4.1,483,"12:30 to 15:00, 19:30 to 23:00 (Mon-Thu),12:30 to 15:00, 19:30 to 24:00 (Fri),19:30 to 24:00 (Sat),Closed (Sun)"
+17833021,Conga,Baixa,Porto,"Portuguese, Finger Food",Casual Dining,20,320,261,0,0,4.0,814,"11 AM to 10:30 PM (Mon-Thu, Sun), 11 AM to 12 Midnight (Fri), 11 AM to 1 AM (Sat)"
+18742488,Fava Tonka,Leça da Palmeira,Porto,"Vegetarian, Author, Petiscos, Healthy Food",Casual Dining,50,75,248,1,0,4.6,206,"12:30 a 15:00, 19:30 a 23:00 (Seg, Qua, Qui, Sex, Sáb, Dom), Fechado (Ter)"
+17835233,Terra,Foz,Porto,"Fusion, Mediterranean, Japanese, Sushi",Fine Dining,70,170,482,0,0,4.5,446,"12:30 PM a 3:30 PM, 7:30 PM a 12 Midnight, 12 Midnight a 12:30 AM"
+17833721,A Sandeira,Baixa,Porto,"Healthy Food, Vegetarian",Quick Bites,10,192,279,0,0,4.3,422,"9 AM to 12 Midnight (Mon-Sat), Sun Closed"
+18673976,I Loft Resto&Bar,Baixa,Porto,"Mexican, Mediterranean, Beverages, Petiscos, Portuguese",Casual Dining,40,82,233,1,0,4.1,170,"7 PM a 12 Midnight, 12 Midnight a 12:30 AM (Ter-Qui, Dom), 7 PM a 12 Midnight, 12 Midnight a 2:30 AM (Sex-Sáb), Seg Fechado"
+17836120,Casa Guedes,Santo Ildefonso,Porto,"Finger Food, Portuguese",Snack Bar,12,481,399,0,0,4.6,1176,"8 AM to 10:30 PM (Mon-Sat), Sun Closed"
+17833545,Dona Maria Pregaria,Baixa,Porto,Burger,Casual Dining,22,487,826,0,0,4.2,1036,"12 Noon a 4 PM, 7 PM a 10:59 PM (Seg-Qui), 12 Noon a 4 PM, 6 PM a 12 Midnight (Sex-Sáb), Dom Fechado"
+18480786,Noshi Coffee,Baixa,Porto,"Healthy Food, Vegetarian, Cafe",Café,12,221,535,0,0,4.2,484,"9 AM to 7 PM (Mon-Sat), 1 AM to 6 PM (Sun)"
+17833033,Real Hamburgueria Portuguesa,Cedofeita,Porto,Burger,Casual Dining,20,456,682,0,0,4.4,1059,"12 Noon to 11 PM (Tue-Sat), Mon & Sun Closed"
+17836488,Santini,Baixa,Porto,"Ice Cream, Desserts",Ice Cream Shop,10,401,566,0,0,4.5,818,"1 PM a 11 PM (Seg-Qui), 1 PM a 12 Midnight (Sex-Dom)"
+17835984,Meidin,Boavista,Porto,"Italian, Pizza",Casual Dining,20,153,192,0,0,3.8,418,12:00 to 23:00 (Mon-Sun)
+17833247,Munchie,Baixa,Porto,Burger,Casual Dining,15,399,307,0,0,3.9,1236,12 Noon to 12 Midnight
+17833382,Shiko - Tasca Japonesa,Batalha,Porto,"Japanese, Sushi",Casual Dining,50,189,530,1,0,4.6,447,"12:30 PM to 3 PM, 7:30 PM to 11 PM (Tue-Fri), 1 PM to 4 PM, 7:30 PM to 11 PM (Sat), Mon & Sun Closed"
+17833599,Cantinho do Avillez,Baixa,Porto,"Portuguese, Contemporary",Fine Dining,70,240,532,0,0,4.4,540,"12:30 to 15:00, 19:00 to 24:00 (Mon-Fri),12:30 to 24:00 (Sat-Sun)"
+18344198,Honorato,Baixa,Porto,"Burger, Gourmet Fast Food",Casual Dining,25,285,527,0,0,4.1,600,"12 Noon to 12 Midnight (Mon-Wed, Sun), 12 Noon to 1 AM (Thu), 12 Noon to 2 AM (Fri-Sat)"
+17884616,daTerra,Baixa,Porto,"Vegetarian, Tea",Casual Dining,20,295,475,1,0,4.1,600,"8:30 AM to 11 PM (Mon-Thu, Sun), 8:30 AM to 11:30 PM (Fri-Sat)"
+17836337,Rota do Chá,Cedofeita,Porto,"Finger Food, Portuguese, Juices, Tea",Tea Room,40,225,337,0,0,4.1,543,11 AM to 9 PM
+18246408,RT Focaccias,"Mercado Bom Sucesso, Boavista",Porto,"Italian, Finger Food",Food Court,15,85,274,0,0,4.1,169,"10 AM to 11 PM (Mon-Thu, Sun), 10 AM to 12 Midnight (Fri-Sat)"
+18269084,Casa da Guripa,Angeiras,Porto,"Mediterranean, Fresh Fish",Casual Dining,40,76,232,0,0,4.7,184,"12 Noon a 3 PM, 7 PM a 10 PM (Ter-Sáb), 12 Noon a 3 PM (Dom), Seg Fechado"
+19073653,Mar e Terra,Albufeira,Algarve,Portuguese,Casual Dining,30,0,28,0,0,0,1,12 Noon to 10 PM
+19079238,O Teodósio,Guia,Algarve,"Portuguese, Grill",Casual Dining,25,8,7,0,0,4.1,16,"12 Noon to 3 PM, 6:30 PM to 10:30 PM"
+19076714,Nó de Gosto,Tavira Centro,Algarve,"Petiscos, Portuguese",Casual Dining,25,1,40,0,0,0,2,"6 PM to 10 PM (Mon, Wed-Sun), Tue Closed"
+19076502,Ideal,Cabanas de Tavira,Algarve,"Grill, Portuguese",Casual Dining,25,4,12,0,0,4.0,8,"12 Noon to 3 PM, 7 PM to 10 PM (Mon-Tue, Thu-Sun), Wed Closed"
+19077760,A Venda,Faro Centro,Algarve,"Finger Food, Tapas, Portuguese",Quick Bites,25,0,11,0,0,0,3,"1 PM to 3 PM, 7:30 PM to 11 PM (Tue-Sat), Mon & Sun Closed"
+19076553,D'gusta,Tavira Centro,Algarve,"Portuguese, Beverages",Casual Dining,25,2,6,0,0,2.6,7,"7 PM to 2 AM (Tue-Sun), Mon Closed"
+19073073,Vila Faia,Quarteira,Algarve,"Finger Food, Cafe",Snack Bar,6,0,20,0,0,0,1,"8 AM to 8 PM (Mon, Wed-Sun), Tue Closed"
+19074995,NoSolo Itália,Vilamoura,Algarve,"Pizza, Italian, Ice Cream",Casual Dining,40,5,3,0,0,3.5,9,10 AM to 11:30 PM
+19074783,Alameda Restaurante,Faro Centro,Algarve,"Author, Portuguese",Casual Dining,60,2,10,0,0,3.2,4,"7 PM to 12 Midnight (Tue-Sat), Mon & Sun Closed"
+19071967,Avô Casemiro,Portimão Centro,Algarve,Petiscos,Casual Dining,25,1,21,0,0,0,2,"12 Noon to 11 PM (Mon-Tue, Thu-Sun), Wed Closed"
+19076764,Ponto de Encontro,Tavira Centro,Algarve,Portuguese,Casual Dining,30,3,23,0,0,3.2,5,"Fechado (Seg),19:00 a 22:30 (Ter),12:30 a 15:00, 19:00 a 22:30 (Qua-Dom)"
+19077052,The Woods,Faro Centro,Algarve,"Finger Food, Healthy Food",Casual Dining,20,3,3,0,0,3.8,6,12 Noon to 12 Midnight
+19076700,Zé Maria & Lita,Tavira Centro,Algarve,Grill,Casual Dining,20,1,10,0,0,0,3,"12 Noon to 3 PM, 7 PM to 10 PM"
+19077099,Ti Maria,Tavira Centro,Algarve,Portuguese,Casual Dining,30,2,13,0,0,0,2,"12 Noon to 11 PM (Mon-Sat), Sun Closed"
+19076952,Sushi Ya Fusion,Faro Centro,Algarve,Sushi,Casual Dining,40,3,5,0,0,3.2,6,"12 Noon to 2:30 PM, 7 PM to 11:30 PM (Tue-Sun), Mon Closed"
+19076939,Muxama,Monte Gordo,Algarve,"Portuguese, Fresh Fish",Casual Dining,50,2,11,0,0,0,2,"10 AM to 11:30 PM (Mon, Wed, Sun), 10:30 AM to 11 PM (Thu-Sat), Tue Closed"
+19079373,Ramires,Guia,Algarve,"Portuguese, Grill",Casual Dining,20,2,7,0,0,0,3,12 Noon to 11 PM
+19078707,Casa na Igreja,Vila Nova de Cacela,Algarve,Portuguese,Casual Dining,20,3,5,0,0,3.7,6,4:30 PM to 10:30 PM
+19078575,Nutty,Vila Real de Santo António Centro,Algarve,Crepes,Dessert Parlour,8,1,7,0,0,2.9,4,"11 AM to 7 PM (Tue-Sun), Mon Closed"
+19078023,Polvo & Companhia,Santa Luzia,Algarve,"Fresh Fish, Seafood",Casual Dining,40,3,9,0,0,3.9,4,"12 Noon to 3 PM, 6:30 PM to 9:30 PM (Tue-Sun), Mon Closed"
+19075421,Tico Tico,Quarteira,Algarve,"Seafood, Petiscos",Casual Dining,35,0,19,0,0,3.9,9,"12:00 a 14:45, 18:30 a 22:15 (Seg, Qua, Qui, Sex, Sáb, Dom), Fechado (Ter)"
+19103254,A Tasca do João,Faro Centro,Algarve,"Petiscos, Tapas",Quick Bites,30,1,10,0,0,3.1,4,"6 PM to 11:45 PM (Tue-Sun), Mon Closed"
+19076781,Come na Gaveta,Tavira Centro,Algarve,Portuguese,Casual Dining,35,1,7,0,0,0,3,"12 Noon to 3 PM, 7 PM to 11 PM"
+19071250,Agua y Sal,Ferreiras,Algarve,Mexican,Casual Dining,30,2,13,0,0,0,2,"3 PM to 12 Midnight (Tue-Sun), Mon Closed"
+19076403,Mediterraneamente,Alvor,Algarve,"Italian, Pizza",Casual Dining,25,1,2,0,0,4.0,6,"12 Noon to 3 PM, 6:30 PM to 11 PM (Mon, Wed-Sun), Tue Closed"
+19072130,Cacau Brunch Concept,Portimão Centro,Algarve,Portuguese,Casual Dining,30,0,7,0,0,0,2,"10 AM to 6 PM (Mon-Sat), Sun Closed"
+19077938,Casa do Polvo - Tasquinha,Santa Luzia,Algarve,Fresh Fish,Casual Dining,40,0,19,0,0,0,3,"12 Noon to 3 PM, 6:30 PM to 10 PM (Mon, Wed-Sun), Tue Closed"
+19077171,Lodo,Faro Centro,Algarve,Seafood,Casual Dining,10,3,5,0,0,0,3,"12 Noon to 3 PM, 6 PM to 10:30 PM"
+19071998,Dona Barca,Portimão Centro,Algarve,Portuguese,Casual Dining,25,3,7,0,0,0,3,12 Noon to 11 PM
+19081103,Primavera Ristorante Trattoria,Carvoeiro,Algarve,"Pizza, Italian",Casual Dining,40,0,6,0,0,0,3,12 Noon to 11 PM
+19072826,Casanova,Albufeira,Algarve,Portuguese,Casual Dining,50,0,12,0,0,0,0,10 AM to 12 Midnight
+19071771,La Dolce Vita,Portimão Centro,Algarve,"Pizza, Italian",Casual Dining,35,2,3,0,0,3.4,8,12 Noon to 11 PM
+19079327,Sen Tonkin,Ferragudo,Algarve,Vietnamese,Casual Dining,25,1,4,0,0,0,2,"12 Noon to 3 PM, 6:30 PM to 10 PM"
+19076490,Al Dente,Alvor,Algarve,"Pizza, Italian",Casual Dining,30,0,5,0,0,0,3,"6 PM to 10 PM (Mon-Fri), 12 Noon to 3 PM, 6 PM to 10 PM (Sat-Sun)"
+19104169,IZAKAYA,Porches Craft Beer Fest,Algarve,Japanese,Kiosk,14,0,8,0,0,0,1,5 PM to 11 PM
+19071992,Puerto Madero,Albufeira,Algarve,"Steak, Argentine",Casual Dining,30,1,11,0,0,0,1,"7 PM to 11 PM (Mon-Tue, Thu-Sun), Wed Closed"
+19072846,Uzonj,Albufeira,Algarve,"Portuguese, Grill",Casual Dining,40,0,2,0,0,3.6,8,12 Noon to 10 PM
+19077165,Studio 4,Faro Centro,Algarve,"Finger Food, Beverages",Bar,10,1,7,0,0,0,2,12 Noon to 12 Midnight
+18413910,Frankie Hot Dogs,Saldanha,Lisboa,"Gourmet Fast Food, Street Food",Quick Bites,14,602,1225,0,0,4.4,1226,12 Noon to 12 Midnight
+8214585,Yakuza First Floor,Rato,Lisboa,"Japanese, Sushi, Beverages",Fine Dining,100,375,1339,0,0,4.9,897,"12:30 PM a 3 PM, 8 PM a 12 Midnight, 12 Midnight a 1 AM (Ter-Sex), 8 PM a 12 Midnight, 12 Midnight a 1 AM (Sáb-Dom), Seg Fechado"
+8201625,Fábrica dos Sabores,Saldanha,Lisboa,"Healthy Food, Juices, Italian, Pizza, Bakery, Crepes",Casual Dining,24,1069,1958,1,0,4.0,1928,"8 AM to 8 PM (Mon-Fri), 9 AM to 8 PM (Sat), Sun Closed"
+8202582,Darwin's,Belém,Lisboa,"Portuguese, Italian",Fine Dining,50,739,1478,0,0,4.6,1949,"12:30 PM a 4 PM (Seg), 12:30 PM a 3:30 PM, 7:30 PM a 11 PM (Ter-Dom)"
+8212583,Frankie Hot Dogs,Campo Grande,Lisboa,"Gourmet Fast Food, Street Food",Quick Bites,14,2640,4372,0,0,4.4,5703,12 Noon a 12 Midnight
+18538876,Otto,Cais do Sodré,Lisboa,"Pizza, Italian",Casual Dining,30,567,558,0,0,4.4,1004,"12 Noon a 12 Midnight (Seg-Qui, Dom), 12 Noon a 12 Midnight, 12 Midnight a 1 AM (Sex-Sáb)"
+16554743,Grazia & Graziella,Trastevere,Roma,"Pizza, Roman, Italian",Casual Dining,40,128,599,0,0,4.9,265,"08:00 to 01:00 (Mon-Sat),08:00 to 02:00 (Sun)"
+16548536,Giolitti,Navona - Pantheon,Roma,"Cafe, Ice Cream, Italian, Desserts",Ice Cream Shop,40,137,1479,0,0,4.9,244,07:00 to 01:00 (Mon-Sun)
+16553765,Dar Poeta,Trastevere,Roma,Pizza,Pizzeria,30,91,273,0,0,4.8,173,12:00 to 24:00 (Mon-Sun)
+16551423,Pompi Il Regno del Tiramisù,Spagna,Roma,"Ice Cream, Desserts",Dessert Parlour,15,93,127,0,0,4.9,157,"11:00 to 21:30 (Mon, Tue, Wed, Thu, Sun), 11:00 to 22:30 (Fri),11:00 to 23:30 (Sat)"
+16550546,Cantina e Cucina,Navona - Pantheon,Roma,"Roman, Pizza, Italian",Osteria,60,67,488,0,0,4.9,147,08:30 to 01:30 (Mon-Sun)
+16554451,Open Baladin,Campo de' Fiori,Roma,"Burger, Italian",Pub,40,106,486,0,0,4.8,149,12:00 to 02:00 (Mon-Sun)
+16553367,Spaghetteria Pizzeria L'Archetto,Fontana di Trevi,Roma,"Pizza, Italian",Casual Dining,50,71,225,0,0,4.7,143,12:00 to 01:00 (Mon-Sun)
+16556183,Frigidarium - Gelateria Artigianale,Navona - Pantheon,Roma,Ice Cream,Ice Cream Shop,6,64,76,0,0,4.9,120,10:00 to 02:00 (Mon-Sun)
+16554755,Carlo Menta,Trastevere,Roma,"Roman, Pizza, Seafood, Italian",Casual Dining,50,71,112,0,0,4.3,123,"12:00 to 23:30 (Mon, Tue, Wed, Thu, Sun), 12:00 to 24:00 (Fri-Sat)"
+16556179,Pinsere,Veneto,Roma,"Pizza, Street Food",Quick Bites,15,23,1018,0,0,4.6,45,"08:00 to 16:00 (Mon-Fri),Closed (Sat-Sun)"
+16553107,Panino Divino,Prati,Roma,Panini,Quick Bites,15,15,234,0,0,4.3,24,"10:00 to 21:00 (Mon-Sat),Closed (Sun)"
+16556369,La Carbonara,Monti,Roma,"Roman, Italian",Osteria,50,45,452,0,0,4.7,89,"12:30 to 14:30, 19:00 to 23:00 (Mon-Sat),Closed (Sun)"
+16555104,Hard Rock Cafe,Veneto,Roma,"Burger, American",Casual Dining,60,54,2105,0,0,4.7,86,"12:00 to 02:00 (Mon, Tue, Wed, Thu, Sun), 12:00 to 02:30 (Fri-Sat)"
+16550700,Ginger,Spagna,Roma,"Healthy Food, Cafe, Italian",Casual Dining,60,54,742,0,0,4.7,88,10:00 to 24:00 (Mon-Sun)
+16529800,200 Gradi,Prati,Roma,"Panini, Healthy Food",Quick Bites,20,70,209,0,0,4.6,101,"11:00 to 02:00 (Mon, Tue, Wed, Thu, Sun), 11:00 to 04:00 (Fri-Sat)"
+16555920,La Romana,Veneto,Roma,"Ice Cream, Crepes, Desserts",Ice Cream Shop,6,81,511,0,0,4.7,119,"11:00 to 24:00 (Mon, Tue, Wed, Thu, Sun), 11:00 to 01:00 (Fri-Sat)"
+16551810,Momart,Bologna,Roma,"Pizza, Burger, Italian",Casual Dining,50,153,127,0,0,4.5,178,"12:00 to 15:00, 19:00 to 02:00 (Mon-Sun)"
+16549722,100 Montaditos,Policlinico,Roma,"Burger, Tapas, Spanish",Casual Dining,25,129,462,0,0,4.4,146,12:00 to 01:30 (Mon-Sun)
+16551054,Pane e Salame,Torrevecchia,Roma,"Pizza, Panini, Tavola Calda",Quick Bites,10,9,473,0,0,4.2,12,"07:00 to 21:00 (Mon-Sat),Closed (Sun)"
+16551070,Dolce,Quartiere Africano,Roma,"Cafe, Burger, Desserts, Italian",Casual Dining,50,56,168,0,0,4.5,77,"17:00 to 24:00 (Mon-Sat),08:30 to 23:30 (Sun)"
+16556441,Temakinho,Monti,Roma,"Fusion, Sushi, Japanese, Brazilian",Casual Dining,70,39,956,0,0,4.6,54,"12:30 to 15:30, 19:00 to 24:00 (Mon-Sun)"
+16555313,Porto Fluviale,Ostiense,Roma,"Pizza, Roman, Grill, Mediterranean",Casual Dining,50,88,939,0,0,4.4,119,"10:30 to 02:00 (Mon, Tue, Wed, Thu, Sun), 10:30 to 03:00 (Fri-Sat)"
+16554842,Roscioli,Campo de' Fiori,Roma,"Roman, Italian",Casual Dining,70,33,377,0,0,4.6,78,"12:30 to 16:00, 19:00 to 24:00 (Mon-Sat),Closed (Sun)"
+16556495,Baguetteria del Fico,Navona - Pantheon,Roma,Panini,Quick Bites,30,8,295,0,0,3.9,8,"10:00 to 21:00 (Mon),10:00 to 02:00 (Tue-Sat),10:00 to 01:00 (Sun)"
+16556120,Kilo - Funny Burger,Salario,Roma,"Burger, Grill, Italian",Casual Dining,50,65,340,0,0,4.5,87,"07:30 to 15:00, 19:00 to 02:00 (Mon-Sun)"
+16550354,Fatto in Casa,Navona - Pantheon,Roma,"Roman, Grill, Italian",Casual Dining,60,36,143,0,0,4.5,65,11:00 to 23:30 (Mon-Sun)
+16555782,PanDivino,Campo de' Fiori,Roma,"Panini, Tapas",Quick Bites,15,4,432,0,0,3.8,5,"12:00 a 16:00 (Lun, Dom), Chiuso (Mar),12:00 a 20:00 (Mer-Ven),12:00 a 21:00 (Sab)"
+16553305,Sant'Eustachio il Caffè,Navona - Pantheon,Roma,"Cafe, Desserts",Bar - Caffe,15,64,369,0,0,4.8,94,"07:30 to 01:00 (Mon-Thu),07:30 to 01:30 (Fri),08:00 to 02:00 (Sat),08:00 to 01:00 (Sun)"
+16556270,Ristorante 21 - Hotel Mediterraneo,"Hotel Mediterraneo, Esquilino - Termini",Roma,Italian,Fine Dining,80,0,205,0,0,0,3,"12:00 to 15:00, 19:00 to 23:30 (Mon-Sun)"
+16548557,Mò Mò Republic,Gianicolense,Roma,"Pizza, Italian",Casual Dining,60,78,635,0,0,4.3,104,10:00 to 02:00 (Mon-Sun)
+16556243,Pinsa Re,Quartiere Africano,Roma,Pizza,Quick Bites,20,1,211,0,0,0,2,"10:00 to 22:00 (Mon),10:00 to 15:30 (Tue-Sat),17:30 to 22:00 (Sun)"
+16551181,Itoya,Salario,Roma,"Sushi, Japanese, Chinese, Asian",Casual Dining,40,26,158,0,0,4.2,33,"12:00 to 15:00, 19:00 to 24:00 (Mon-Sun)"
+16552039,Pompi Il Regno del Tiramisù,Re di Roma,Roma,"Cafe, Ice Cream, Desserts, Tavola Fredda",Dessert Parlour,15,75,1386,0,0,4.5,103,"Closed (Mon),07:00 to 01:00 (Tue, Wed, Thu, Sun), 07:00 to 02:00 (Fri-Sat)"
+17759638,Pastificio Guerra,Spagna,Roma,Italian,Quick Bites,10,46,116,0,0,4.6,76,13:00 to 21:30 (Mon-Sun)
+16556358,Numbs Le Bistro,Quartiere Trieste,Roma,"French, Italian",Casual Dining,60,11,169,0,0,3.3,18,"12:30 to 15:30, 19:30 to 01:30 (Mon, Tue, Wed, Thu, Sun), 12:30 to 15:30, 19:30 to 02:00 (Fri-Sat)"
+16548126,Mizzica,Bologna,Roma,"Cafe, Desserts, Sicilian",Dessert Parlour,10,95,206,0,0,4.6,118,06:30 to 24:00 (Mon-Sun)
+16555487,Porto,Prati,Roma,"Seafood, Fish and Chips, Modern European",Casual Dining,50,59,80,0,0,4.5,77,"12:30 to 15:00, 19:30 to 23:30 (Mon-Sun)"
+16555470,Il Gianfornaio,Prati,Roma,"Cafe, Desserts, Pizza, Tavola Fredda, Tavola Calda",Bar - Caffe,20,29,200,0,0,4.4,43,"07:30 to 20:30 (Mon-Sat),09:00 to 20:00 (Sun)"
+16551823,Pizza Loft,Re di Roma,Roma,Pizza,Quick Bites,15,4,181,0,0,3.5,5,"11:30 to 22:30 (Mon-Sat),18:00 to 22:30 (Sun)"
+16555274,La Romana,Ostiense,Roma,"Ice Cream, Crepes, Desserts",Dessert Parlour,6,93,116,0,0,4.6,107,11:30 to 00:30 (Mon-Sun)
+16555769,Freni e Frizioni,Trastevere,Roma,Finger Food,Cocktail Bar,20,65,331,0,0,4.4,85,18:30 to 02:00 (Mon-Sun)
+16552730,Meeting Place,Bologna,Roma,"Cafe, Tavola Calda, Tavola Fredda",Bar - Caffe,10,104,118,0,0,3.9,112,"07:00 to 02:00 (Mon, Tue, Wed, Thu, Sun), 07:00 to 03:00 (Fri-Sat)"
+16554583,Bir & Fud,Trastevere,Roma,"Pizza, Burger, Italian",Casual Dining,50,45,393,0,0,4.5,79,12:30 to 02:00 (Mon-Sun)
+16551159,Bakery House,Quartiere Africano,Roma,"Cafe, Desserts, Burger, American",Quick Bites,20,62,3931,0,0,4.3,79,"08:00 to 23:00 (Mon-Thu),09:30 to 24:00 (Fri-Sun)"
+16555524,Likeat,Campo de' Fiori,Roma,Panini,Quick Bites,15,4,180,0,0,3.7,6,"10:00 to 18:00 (Mon-Fri),Closed (Sat),10:00 to 16:00 (Sun)"
+16554719,Vecchia Roma,Esquilino - Termini,Roma,"Roman, Italian",Casual Dining,50,33,304,0,0,4.5,63,"12:30 to 15:00, 19:00 to 23:00 (Mon-Sat),Closed (Sun)"
+16548322,Bread & Break,Fontana di Trevi,Roma,Panini,Bakery,10,0,160,0,0,0,1,08:00 to 19:00 (Mon-Sun)
+16555791,Osteria Da Fortunata,Campo de' Fiori,Roma,"Roman, Italian",Osteria,60,24,381,0,0,4.6,57,12:00 to 01:00 (Mon-Sun)
+16554985,La Base,Monti,Roma,"Steak, Roman, Pizza",Pub,50,30,58,0,0,4.5,61,12:00 to 04:30 (Mon-Sun)
+16552652,Antico Caffé Greco,Spagna,Roma,"Cafe, Tavola Fredda",Bar - Caffe,40,36,76,0,0,4.7,60,09:00 to 21:00 (Mon-Sun)
+16554047,Alice Pizza,Navona - Pantheon,Roma,Pizza,Quick Bites,15,28,125,0,0,4.4,39,10:00 to 22:00 (Mon-Sun)
+16552865,Luzzi,Colosseo,Roma,"Roman, Pizza, Seafood, Italian",Trattoria,50,26,40,0,0,4.4,58,12:00 to 24:00 (Mon-Sun)
+16555760,Ivo a Trastevere,Trastevere,Roma,"Pizza, Roman, Italian",Casual Dining,50,36,42,0,0,4.6,72,"17:00 to 01:00 (Mon-Sat),12:00 to 16:00, 17:00 to 01:00 (Sun)"
+16553154,Gelateria della Palma,Navona - Pantheon,Roma,"Ice Cream, Cafe",Ice Cream Shop,10,37,719,0,0,4.5,53,08:30 to 24:00 (Mon-Sun)
+16553771,Palazzo del Freddo - Giovanni Fassi,Esquilino - Termini,Roma,"Ice Cream, Desserts, Cafe",Ice Cream Shop,6,49,538,0,0,4.3,73,"12:00 to 22:00 (Mon-Thu),12:00 to 00:30 (Fri-Sat),10:00 to 22:00 (Sun)"
+18149364,Stazione 38,Marconi,Roma,"Cafe, Roman, Italian",Casual Dining,50,26,110,0,0,4.4,39,"07:00 to 02:00 (Mon-Sat),17:00 to 02:00 (Sun)"
+16555441,Felice a Testaccio,Testaccio,Roma,"Roman, Italian",Trattoria,80,35,237,0,0,4.5,64,"12:30 to 15:00, 19:30 to 23:30 (Mon-Sun)"
+16555577,T Bar,Ostiense,Roma,"Roman, Pizza, Burger, Italian",Bistro,30,61,233,0,0,4.3,81,"08:00 to 02:00 (Mon, Tue, Wed, Thu, Sun), 10:00 to 03:00 (Fri-Sat)"
+16554873,Trapizzino,Testaccio,Roma,"Street Food, Roman",Quick Bites,10,33,172,0,0,4.6,58,"Closed (Mon),12:00 to 01:00 (Tue-Sun)"
+16548152,Necci,Pigneto,Roma,"Cafe, Italian, Desserts",Casual Dining,50,38,59,0,0,4.3,57,08:00 to 02:00 (Mon-Sun)
+18017771,TED (Lobster & Burger),Prati,Roma,"Burger, Seafood",Casual Dining,65,26,84,0,0,4.1,29,12:00 to 02:00 (Mon-Sun)
+16556403,Queen Makeda,Aventino - Circo Massimo,Roma,"Fusion, Burger, Asian, Italian",Pub,40,35,150,0,0,4.2,44,"12:00 to 15:00, 18:00 to 02:00 (Mon-Sat),12:30 to 15:30, 18:00 to 02:00 (Sun)"
+16553673,Maharajah,Monti,Roma,Indian,Casual Dining,60,36,35,0,0,4.4,62,"12:00 to 15:00, 19:00 to 23:00 (Mon-Sun)"
+16554679,Panella,Esquilino - Termini,Roma,"Cafe, Bakery, Desserts, Italian",Café,20,34,72,0,0,4.3,53,08:00 to 23:00 (Mon-Sun)
+16556570,Sushisen,Testaccio,Roma,"Sushi, Japanese, Asian",Casual Dining,50,23,207,0,0,4.4,36,"Closed (Mon),12:30 to 14:30, 19:30 to 23:00 (Tue-Sun)"
+16553728,L'Antica Birreria Peroni,Fontana di Trevi,Roma,"Burger, German, Roman, Italian",Casual Dining,60,28,118,0,0,4.3,51,"12:00 to 24:00 (Mon-Sat),Closed (Sun)"
+16556414,Pizzarium,Trionfale,Roma,"Street Food, Pizza",Quick Bites,20,37,1282,0,0,4.6,52,"11:00 to 22:00 (Mon-Sat),12:00 to 16:00, 18:00 to 22:00 (Sun)"
+16556797,Pastasciutta,Borgo,Roma,"Home-made, Italian",Quick Bites,10,29,74,0,0,4.5,48,10:30 to 18:30 (Mon-Sun)
+16556150,Pizzeria ai Marmi,Trastevere,Roma,"Pizza, Roman",Pizzeria,50,39,231,0,0,4.2,60,"19:00 to 02:00 (Mon, Tue, Thu, Fri, Sat, Sun), Closed (Wed)"
+16553594,Krishna 13,Esquilino - Termini,Roma,Indian,Casual Dining,40,29,84,0,0,4.2,49,"11:00 to 15:30, 19:00 to 23:30 (Mon-Sun)"
+16555308,Doppiozeroo,Ostiense,Roma,"Cafe, Pizza, Tavola Calda, Italian",Bistro,65,49,285,0,0,4.4,66,"07:00 to 01:30 (Mon-Sat),12:30 to 01:30 (Sun)"
+17759043,Da Simo Pane e Vino,Navona - Pantheon,Roma,Panini,Quick Bites,20,5,124,0,0,3.8,9,"11:00 to 21:00 (Mon, Tue, Wed, Thu, Sun), 11:00 to 23:00 (Fri-Sat)"
+16553845,Da Enzo al 29,Trastevere,Roma,"Roman, Italian",Casual Dining,50,26,218,0,0,4.5,55,"12:30 to 15:00, 19:30 to 23:00 (Mon-Sat),Closed (Sun)"
+16549853,Cul de Sac,Navona - Pantheon,Roma,Italian,Casual Dining,40,27,361,0,0,4.6,54,12:00 to 00:30 (Mon-Sun)
+16555005,Gusto,Spagna,Roma,"Pizza, Burger, Italian",Casual Dining,70,38,31,0,0,4.2,56,12:00 to 23:00 (Mon-Sun)
+16554241,La Prosciutteria,Fontana di Trevi,Roma,Tavola Fredda,Casual Dining,40,24,699,0,0,4.5,47,11:30 to 23:30 (Mon-Sun)
+16551915,Come Il Latte,Veneto,Roma,"Ice Cream, Crepes, Desserts",Ice Cream Shop,6,36,253,0,0,4.5,56,"11:00 to 24:00 (Mon-Thu),11:00 to 01:00 (Fri-Sat),12:00 to 24:00 (Sun)"
+16556116,C1b0,Monte Sacro,Roma,"Burger, American",Bistro,40,37,173,0,0,4.3,50,12:30 to 02:00 (Mon-Sun)
+16549140,La Pergola - Rome Cavalieri,"Rome Cavalieri, Trionfale",Roma,"Haute Cuisine, Italian",Fine Dining,300,16,68,0,0,4.4,31,"Closed (Mon, Sun), 19:30 to 23:30 (Tue-Sat)"
+16551780,Bar Celestino,San Lorenzo,Roma,"Cafe, Tavola Fredda",Bar - Caffe,10,61,45,0,0,4.3,65,06:30 to 01:00 (Mon-Sun)
+16555292,Maranega,Campo de' Fiori,Roma,"Cafe, Pizza, Roman, Italian",Casual Dining,50,22,70,0,0,4.2,27,08:00 to 02:00 (Mon-Sun)
+16554302,Nonna Betta,Ghetto,Roma,"Jewish, Roman, Italian, Middle Eastern",Casual Dining,60,21,102,0,0,4.4,41,"12:00 to 23:00 (Mon, Wed, Thu, Fri, Sat, Sun), Closed (Tue)"
+16551093,Tre Scalini,Navona - Pantheon,Roma,"Roman, Ice Cream, Cafe, Italian",Casual Dining,70,26,396,0,0,4.5,32,11:00 to 23:00 (Mon-Sun)
+16554645,That's Amore,Fontana di Trevi,Roma,"Pizza, Roman, Seafood, Italian",Casual Dining,70,24,166,0,0,4.4,47,12:00 to 24:00 (Mon-Sun)
+16551782,Old Bridge,Prati,Roma,Ice Cream,Ice Cream Shop,6,35,299,0,0,4.3,53,"09:00 to 24:00 (Mon-Sat),14:00 to 02:00 (Sun)"
+16556252,Said,San Lorenzo,Roma,"Desserts, Italian",Bistro,60,27,48,0,0,4.4,40,"10:00 to 00:30 (Mon-Thu),10:00 to 01:30 (Fri-Sat),Closed (Sun)"
+16549280,100 Montaditos,Farnesina,Roma,"Panini, Spanish",Casual Dining,20,42,937,0,0,4.3,46,11:00 to 24:00 (Mon-Sun)
+16553285,Oppio Caffè,Colosseo,Roma,"Cafe, Burger, American, Italian",Café,10,28,141,0,0,4.2,46,07:00 to 02:00 (Mon-Sun)
+17877644,We Food - Eat Love Drink,Policlinico,Roma,"Steak, BBQ, Burger",Casual Dining,40,18,70,0,0,4.5,24,"Closed (Mon),11:00 to 02:00 (Tue-Sun)"
