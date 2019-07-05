@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - mlxtend
+  - nbgrader
+  - numpy
+  - pandas
+  - scikit-learn
