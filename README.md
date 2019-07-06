@@ -1,6 +1,7 @@
 # Batch 3 Students Repository
 
-Welcome to Lisbon Data Science Academy Batch 3 Students repository.
+Welcome to Lisbon Data Science Academy Batch 3 Students repository. The presentation used at the introduction of
+the bootcamp is [here](https://docs.google.com/presentation/d/1uMTbu7vRd0tYEp2ksOqRZyLefPEBB_0-pvanLtAOhjk/edit?usp=sharing).
 
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the academy.
