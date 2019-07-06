@@ -13,11 +13,11 @@ LDSSA's [Code of Conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct).
 
 ## Reporting an issue
 
-Please start by discussing the issue via [issue](https://github.com/LDSSA/batch3-student/issues).
+Please start by discussing the issue via [issue](https://github.com/LDSSA/batch3-students/issues).
 
 ## Contributing to the Repository
 
-Please start by discussing the change via [issue](https://github.com/LDSSA/batch3-student/issues).
+Please start by discussing the change via [issue](https://github.com/LDSSA/batch3-students/issues).
 
 ## Pull Request Process
 
