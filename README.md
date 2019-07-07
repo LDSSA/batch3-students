@@ -390,8 +390,6 @@ material you should open a ticket in the
 Before opening a ticket be sure to search for any existing issues (both open 
 and closed) that address the problem.
 Be sure to fill the issue template correctly.
-**IMPORTANT** It will be a massive help if you add a label matching the
-learning unit and assign the ticket to the main instructor.
 
 If you have doubts about the materials or how to approach a problem you should
 reach out to the instructors on slack.
