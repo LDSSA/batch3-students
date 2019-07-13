@@ -28,3 +28,14 @@ S01 - SLU08:
 
 S01 - SLU15:
 -Update in formula of Learning Notebook (section 3.1.3. Scaling of numerical data - MinMaxScaler)
+
+## 2019-07-13
+### Updated
+S01 - SLU07: 
+- In the learning notebook, chapter "2.3.1 - Derivative of error function" the formulas were updated (add minus sign)
+
+S01 - SLU08: 
+- The formulation of the final exercise was updated informing that it's optional 
+
+S01 - SLU16: 
+- In exercise "Find the rest of the useless features", updated information about which classifier to use.
