@@ -385,13 +385,9 @@ We provide you with some different channels to ask for help.
 ### Learning Unit
 
 If you feel something is not clear enough or there is a bug in the learning
-material you should open a ticket in the 
-[students repository](https://github.com/LDSSA/batch3-students/issues).
-Before opening a ticket be sure to search for any existing issues (both open 
-and closed) that address the problem.
-Be sure to fill the issue template correctly.
+material please follow [these steps](https://github.com/LDSSA/wiki/wiki/How-to-ask-for-and-give-help). Remember, there is no such thing as a dumb question, and by asking questions publically you will help others! 
 
-If you have doubts about the materials or how to approach a problem you should
+If you have more conceptual questions about the materials or how to approach a problem you can also
 reach out to the instructors on slack.
 You can find the main contact for the learning unit in the
 [_Portal_](https://portal.lisbondatascience.org/) this instructor can help you
