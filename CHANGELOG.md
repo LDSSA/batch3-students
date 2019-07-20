@@ -29,13 +29,33 @@ S01 - SLU08:
 S01 - SLU15:
 -Update in formula of Learning Notebook (section 3.1.3. Scaling of numerical data - MinMaxScaler)
 
+
 ## 2019-07-13
 ### Updated
 S01 - SLU07: 
-- In the learning notebook, chapter "2.3.1 - Derivative of error function" the formulas were updated (add minus sign)
+-In the learning notebook, chapter "2.3.1 - Derivative of error function" the formulas were updated (add minus sign)
 
 S01 - SLU08: 
-- The formulation of the final exercise was updated informing that it's optional 
+-The formulation of the final exercise was updated informing that it's optional 
 
 S01 - SLU16: 
-- In exercise "Find the rest of the useless features", updated information about which classifier to use.
+-In exercise "Find the rest of the useless features", updated information about which classifier to use.
+
+## 2019-07-20
+### Updated
+S01 - SLU05:
+-Learning Notebook: In section "Spearman correlation", fix a typo while explaining Spearman called it Pearson.
+
+S01 - SLU09:
+- Enviroment.yml with pinned versions of dependencies
+
+S01 - SLU16:
+-Exercise Notebook: In last exercise, we are now explicitly using one of the training set sizes that was returned from the call to learning_curve.
+-Exercise Notebook: Referencing multiple comments and already closed issue 56 there was still some confusion around which tree-based classifier to use. Made another pass to make it more clear.
+
+S01 - SLU18:
+-New version of Learning Notebook
+
+S01 - SLU19:
+-New versions of Learning Notebook, Exercise Notebook and Example Notebook.
+
