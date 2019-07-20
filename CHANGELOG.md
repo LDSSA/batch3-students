@@ -50,6 +50,7 @@ S01 - SLU09:
 - Enviroment.yml with pinned versions of dependencies
 
 S01 - SLU16:
+-Updated asserts in exercises notebook (students! use this new exercise notebook, copy/paste your answers (if you have) to the new exercise notebook and use this new notebook to re-submit)
 -Exercise Notebook: In last exercise, we are now explicitly using one of the training set sizes that was returned from the call to learning_curve.
 -Exercise Notebook: Referencing multiple comments and already closed issue 56 there was still some confusion around which tree-based classifier to use. Made another pass to make it more clear.
 
