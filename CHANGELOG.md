@@ -60,3 +60,7 @@ S01 - SLU18:
 S01 - SLU19:
 - New versions of Learning Notebook, Exercise Notebook and Example Notebook.
 
+## 2019-07-29
+### New
+S02:
+- Release of BLU01
