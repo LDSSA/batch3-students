@@ -90,6 +90,10 @@ S03:
 S03:
 - Release of BLU05
 
+## 2019-09-15
+### Updated
+S02 - HCKT02: Added instructors solution 
+
 ## 2019-09-16
 ### New
 S03:
