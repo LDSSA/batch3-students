@@ -64,3 +64,36 @@ S01 - SLU19:
 ### New
 S02:
 - Release of BLU01
+
+## 2019-08-05
+### New
+S02:
+- Release of BLU02
+
+## 2019-08-12
+### New
+S02:
+- Release of BLU03
+
+## 2019-08-25
+### New
+S02:
+- Release of HCKT02
+
+## 2019-09-02
+### New
+S03:
+- Release of BLU04
+
+## 2019-09-09
+### New
+S03:
+- Release of BLU05
+
+## 2019-09-16
+### New
+S03:
+- Release of BLU06
+
+### Updated
+S03 - BLU06: Added missing images to Learning Notebook 4, and minor changes to Learning Notebook 2
