@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter=1.0.0
+  - pandas=0.24.1
+  - nbgrader=0.5.5
+  - scikit-learn=0.21.2
+  - matplotlib=3.1.1
+  - statsmodels=0.10.0
+  - tqdm=4.35.0
+
