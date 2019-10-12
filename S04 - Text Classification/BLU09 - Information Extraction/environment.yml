@@ -1,0 +1,16 @@
+name: BLU09
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter=1.0.0
+  - pandas=0.24.1
+  - nbgrader=0.5.5
+  - scikit-learn=0.21.2
+  - matplotlib=3.1.1
+  - spacy=2.1.8
+  - nltk=3.4.4
+  - pip=19.2.3
+  - pip:
+    - https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.1.0/en_core_web_md-2.1.0.tar.gz#egg=en_core_web_md
