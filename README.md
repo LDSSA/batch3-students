@@ -24,6 +24,10 @@ in that the clone of the batch3-students needs to be done by URL (as is shown in
 
 [![screencast](https://img.youtube.com/vi/6cHRO-ab_L4/0.jpg)](https://www.youtube.com/watch?v=6cHRO-ab_L4)
 
+## Bootcamp Screencast
+
+[Here we have recorded the presentations](https://www.youtube.com/watch?v=0Vg-NaHsSXM&list=PLo3LSRSGRZNH13ooXSVBOnnA4uZtLbOU7) for most of the SLUs that were presented during the bootcamp weekend. Enjoy!
+
 ## Initial Setup
 
 **IMPORTANT**
