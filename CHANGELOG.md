@@ -156,14 +156,14 @@ S05 - BLU12: Fix in exercise notebook
 ## 2019-11-18
 ### Updated
 S05 - BLU10: 
-• Learning Notebook Appendix – A.2.3 – missing arguments in csr_matrix() and csc_matrix() (issue #109)
-• LN 2/3 - Wrong value for CSR (issue #110)
-• Exercise Notebook Q2 - repeated question (issue #111)
+- Learning Notebook Appendix – A.2.3 – missing arguments in csr_matrix() and csc_matrix() (issue #109)
+- LN 2/3 - Wrong value for CSR (issue #110)
+- Exercise Notebook Q2 - repeated question (issue #111)
 
 ## 2019-11-20
 ### Updated
 S05: 
-• BLU10 - Exercise notebook: Added clarification for best-item on Q5 (issue #121)
-• BLU11 - Exercise notebook: Replaced Q4.1.3 to accept td-idf features regardless of their order (students! use this new exercise notebook, copy/paste your answers (if you have) to the new exercise notebook and use this new notebook to re-submit))
-• BLU11 - LN1: Clarification of 'Computing similarities' section on symmetric matrixes (#issue 116)
-• BLU12 - Fixed LN1 - S2 non personalized get most rated function
+- BLU10 - Exercise notebook: Added clarification for best-item on Q5 (issue #121)
+- BLU11 - Exercise notebook: Replaced Q4.1.3 to accept td-idf features regardless of their order (students! use this new exercise notebook, copy/paste your answers (if you have) to the new exercise notebook and use this new notebook to re-submit))
+- BLU11 - LN1: Clarification of 'Computing similarities' section on symmetric matrixes (#issue 116)
+- BLU12 - Fixed LN1 - S2 non personalized get most rated function
