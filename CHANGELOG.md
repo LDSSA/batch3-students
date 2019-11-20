@@ -62,33 +62,27 @@ S01 - SLU19:
 
 ## 2019-07-29
 ### New
-S02:
-- Release of BLU01
+S02 - Release of BLU01
 
 ## 2019-08-05
 ### New
-S02:
-- Release of BLU02
+S02 - Release of BLU02
 
 ## 2019-08-12
 ### New
-S02:
-- Release of BLU03
+S02 - Release of BLU03
 
 ## 2019-08-25
 ### New
-S02:
-- Release of HCKT02
+S02 - Release of HCKT02
 
 ## 2019-09-02
 ### New
-S03:
-- Release of BLU04
+S03 - Release of BLU04
 
 ## 2019-09-09
 ### New
-S03:
-- Release of BLU05
+S03 - Release of BLU05
 
 ## 2019-09-15
 ### Updated
@@ -96,8 +90,80 @@ S02 - HCKT02: Added instructors solution
 
 ## 2019-09-16
 ### New
-S03:
-- Release of BLU06
+S03 - Release of BLU06
 
 ### Updated
 S03 - BLU06: Added missing images to Learning Notebook 4, and minor changes to Learning Notebook 2
+
+## 2019-09-29
+### New
+S03 - Release of HCKT03
+
+## 2019-09-30
+### New
+S04 - Release of BLU07
+
+## 2019-10-03
+### Updated
+S04 - BLU07 - Exercise notebook: Fix problem description of final question
+
+## 2019-10-07
+### New
+S04 - Release of BLU08
+
+## 2019-10-08
+### Updated
+S04 - BLU08: Downgrade numpy to 1.17.1
+
+## 2019-10-14
+### New
+S04 - Release of BLU09
+
+## 2019-10-27
+### New
+S04 - Release of HCKT04
+
+## 2019-10-28
+### New
+S04 - HCKT04: Added instructors solution and test dataset labeled
+
+## 2019-10-29
+### New
+S05 - Release of BLU10
+
+### Updated
+S05 - BLU10: Updated environment.yml
+
+## 2019-11-05
+### New
+S05 - Release of BLU11
+
+## 2019-11-06
+### Updated
+S05 - BLU11: LN2 fixes
+
+## 2019-11-09
+### Updated
+S05 - BLU11: LN1 and LN2 fixes
+
+## 2019-11-17
+### New
+S05 - Release of BLU12
+
+### Updated
+S05 - BLU12: Fix in exercise notebook
+
+## 2019-11-18
+### Updated
+S05 - BLU10: 
+• Learning Notebook Appendix – A.2.3 – missing arguments in csr_matrix() and csc_matrix() (issue #109)
+• LN 2/3 - Wrong value for CSR (issue #110)
+• Exercise Notebook Q2 - repeated question (issue #111)
+
+## 2019-11-20
+### Updated
+S05: 
+• BLU10 - Exercise notebook: Added clarification for best-item on Q5 (issue #121)
+• BLU11 - Exercise notebook: Replaced Q4.1.3 to accept td-idf features regardless of their order (students! use this new exercise notebook, copy/paste your answers (if you have) to the new exercise notebook and use this new notebook to re-submit))
+• BLU11 - LN1: Clarification of 'Computing similarities' section on symmetric matrixes (#issue 116)
+• BLU12 - Fixed LN1 - S2 non personalized get most rated function
